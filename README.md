@@ -1,7 +1,7 @@
-# Senses Share Materials
+# Senses Share Materials 🔛
 Here live the single folder with downloadable material for each Senses module.
 
-# How to
+# How to 🔧
 To provide downloadable material for your module you will have to create a
 folder with the module name.
 
@@ -12,4 +12,8 @@ folder
 [number]-[title].png
 ```
 * Independently from __data formats__ each dataset should have consistent
-metadata to support their use.
+metadata to support their use. Datasets will be named according the following
+standard convention:
+```
+[number]-[title]-[data].csv
+```
