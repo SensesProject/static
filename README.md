@@ -21,12 +21,12 @@ standard convention:
 ## Distribution 📦
 There is a script to zip all the subfolders of `/modules` and place them into `/dist` as `[module-name].zip`.
 
-Setup
+__Setup__
 ```
 npm install
 ```
 
-Zip
+__Zip__
 ```
 npm run build
 ```
