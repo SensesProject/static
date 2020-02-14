@@ -1,7 +1,7 @@
 # Senses Share Materials 🔛
 Here live the single folder with downloadable material for each Senses module.
 
-# How to 🔧
+## How to 🔧
 To provide downloadable material for your module you will have to create a
 folder with the module name.
 
@@ -16,4 +16,17 @@ metadata to support their use. Datasets will be named according the following
 standard convention:
 ```
 [number]-[title]-[data].csv
+```
+
+## Distribution 📦
+There is a script to zip all the subfolders of `/modules` and place them into `/dist` as `[module-name].zip`.
+
+Setup
+```
+npm install
+```
+
+Zip
+```
+npm run build
 ```
