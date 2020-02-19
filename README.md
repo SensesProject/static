@@ -1,5 +1,5 @@
-# Senses Share Materials 🔛
-Here live the single folder with downloadable material for each Senses module.
+# Senses Share Materials and Settings 🔛
+Here lives the single folder with downloadable material for each Senses module as well as the settings/metadata for each module.
 
 ## How to 🔧
 To provide downloadable material for your module you will have to create a
@@ -30,3 +30,7 @@ __Zip__
 ```
 npm run build
 ```
+
+## Settings 🎚️
+More information about keys are located in [`./settings/`](./settings/)
+Setting files are deployed here: `https://dev.climatescenarios.org/settings`
