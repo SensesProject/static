@@ -2,6 +2,8 @@
 ## Modules 💈
 `modules.json` holds a list of all modules that are visible in the toolkit and portals.
 
+🔖 The file is available online at `https://dev.climatescenarios.org/settings/modules.json`
+
 | Key | Type | Description | Toolkit/Portals |
 | :--- | :--- | :--- | :--- |
 | **title** | String | Title of the module | Both |
@@ -25,6 +27,9 @@
 
 ## Downloads 📦
 `downloads.json` hold a list of all downloadable items. Modules can have multiple download items.
+
+🔖 The file is available online at `https://dev.climatescenarios.org/settings/downloads.json`
+
 | Key | Type | Description |
 | :--- | :--- | :--- |
 | **id** | String | Unique id of the download item |
