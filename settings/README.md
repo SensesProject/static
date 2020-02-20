@@ -10,7 +10,7 @@
 | **description** | String | Description of the module (~130–180 characters) | Both |
 | **authors** | Array | designers and scientists that authored the module | Both |
 | **link** | String | Absolute url to module | Both |
-| **link-text** | [String, Boolean] | A custom link text. If set to false it uses the default »Read the module« | Toolkit |
+| **linkText** | [String, Boolean] | A custom link text. If set to false it uses the default »Read the module« | Toolkit |
 | **gems** | Array | List of objects with title url for each GEM | Both |
 | **portal** | String | The portal assigned to the module. Can be `Finance`, `Policy` or `null` if the module is not part of portals | Portals |
 | **portal-num** | String | Position of the element in the portal based on the topic | Portals |
