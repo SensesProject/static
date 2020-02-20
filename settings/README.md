@@ -4,19 +4,17 @@
 
 🔖 The file is available online at `https://dev.climatescenarios.org/settings/modules.json`
 
-| Key | Type | Description | Toolkit/Portals |
+| Key | Type | Description | Used in |
 | :--- | :--- | :--- | :--- |
-| **title** | String | Title of the module | Both |
-| **description** | String | Description of the module | Both |
+| **title** | String | Title of the module (~30 characters max) | Both |
+| **description** | String | Description of the module (~130–180 characters) | Both |
 | **authors** | Array | designers and scientists that authored the module | Both |
-| **portal** | String | The portal assigned to the module. Can be "Finance", "Policy" or "null" if the element is not part of portals | Portals |
+| **link** | String | Absolute url to module | Both |
+| **portal** | String | The portal assigned to the module. Can be `Finance`, `Policy` or `null` if the module is not part of portals | Portals |
 | **portal-num** | String | Position of the element in the portal based on the topic | Portals |
 | **main-topic** | String | Main topic of the module, useful for building the subway line menu in Portal | Portals |
 | **path** | String | path of the module | Portals |
 | **readingTime** | String | Minutes (approx.) required to read the module | Portals |
-~~| **gem** | String | The module has/has not a GEMs link | Both |
-| **scenario-finder** | String | The module has/has not a scenario finder link | Portals |
-| **data** | String | The module has/has not additional data that can be downloaded | Portals |~~
 | **downloadIDs** | Array | List of IDs pointing to `downloads.json` | Portals |
 | **share** | String | The module has/has not additional material that can be downloaded from the "share" section | Portals |
 | **bg** | String | background image for Toolkit | Toolkit |
