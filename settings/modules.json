@@ -33,7 +33,6 @@
       "authors": ["Christoph Bertram", "Jonas Parnow"],
       "readingTime": 15,
       "downloadIDs": [1],
-      "gems": [],
       "bg": "bg1",
       "alignRight": true,
       "tags": ["Policy"],
@@ -53,7 +52,6 @@
       "authors": ["Christoph Bertram", "Jonas Parnow"],
       "readingTime": 15,
       "downloadIDs": [1],
-      "gems": [],
       "bg": "bg2",
       "alignRight": true,
       "tags": ["Policy"],
@@ -76,7 +74,6 @@
       "bg": "bg1",
       "alignRight": true,
       "tags": ["Policy"],
-      "gems": [],
       "dev": true,
       "links": [{"general": "https://dev.climatescenarios.org/sector-transition/"}, { "title": "data", "href": "http://..." }, { "title": "scenario finder", "href": "http://..." }, { "title": "gem", "href": "http://..." }]
     },
@@ -96,7 +93,6 @@
       "bg": "bg3",
       "alignRight": false,
       "tags": ["Policy"],
-      "gems": [],
       "dev": true,
       "links": [{"general": "https://dev.climatescenarios.org/sector-transition/"}, { "title": "data", "href": "http://..." }, { "title": "scenario finder", "href": "http://..." }, { "title": "gem", "href": "http://..." }]
     },
@@ -121,7 +117,6 @@
       "bg": "bg3",
       "alignRight": false,
       "tags": ["Policy"],
-      "gems": [],
       "dev": true,
       "links": [{"general": "http://..."}, { "title": "data", "href": "http://..." }, { "title": "scenario finder", "href": "http://..." }, { "title": "gem", "href": "http://..." }]
     },
@@ -141,7 +136,6 @@
       "bg": "bg3",
       "alignRight": false,
       "tags": ["Policy"],
-      "gems": [],
       "dev": true,
       "links": [{"general": "http://..."}, { "title": "data", "href": "http://..." }, { "title": "scenario finder", "href": "http://..." }, { "title": "gem", "href": "http://..." }]
     },
@@ -161,7 +155,6 @@
       "bg": "bg3",
       "alignRight": false,
       "tags": ["Policy"],
-      "gems": [],
       "dev": true,
       "links": [{"general": "https://dev.climatescenarios.org/extreme-events/#/"}, { "title": "data", "href": "http://..." }, { "title": "scenario finder", "href": "http://..." }, { "title": "gem", "href": "http://..." }]
     },
@@ -181,7 +174,6 @@
       "bg": "bg3",
       "alignRight": false,
       "tags": ["Finance"],
-      "gems": [],
       "dev": true,
       "links": [{"general": "https://dev.climatescenarios.org/fossil-fuels/"}, { "title": "data", "href": "http://..." }, { "title": "scenario finder", "href": "http://..." }, { "title": "gem", "href": "http://..." }]
     },
@@ -201,7 +193,6 @@
       "bg": "bg3",
       "alignRight": false,
       "tags": ["Finance"],
-      "gems": [],
       "dev": true,
       "links": [{"general": "http://..."}, { "title": "data", "href": "http://..." }, { "title": "scenario finder", "href": "http://..." }, { "title": "gem", "href": "http://..." }]
     },
@@ -221,7 +212,6 @@
       "bg": "bg3",
       "alignRight": false,
       "tags": ["Finance"],
-      "gems": [],
       "dev": true,
       "links": [{"general": "http://..."}, { "title": "data", "href": "http://..." }, { "title": "scenario finder", "href": "http://..." }, { "title": "gem", "href": "http://..." }]
     },
@@ -241,7 +231,6 @@
       "bg": "bg3",
       "alignRight": false,
       "tags": ["Policy","Finance"],
-      "gems": [],
       "dev": true,
       "links": [{"general": "http://..."}, { "title": "data", "href": "http://..." }, { "title": "scenario finder", "href": "http://..." }, { "title": "gem", "href": "http://..." }]
     },
@@ -262,7 +251,6 @@
       "bg": "bg3",
       "alignRight": false,
       "tags": ["Finance", "Policy"],
-      "gems": [],
       "dev": true,
       "links": [{"general": "https://dev.climatescenarios.org/finder/"}, { "title": "data", "href": "http://..." }, { "title": "scenario finder", "href": "http://..." }, { "title": "gem", "href": "http://..." }]
     },
@@ -286,7 +274,6 @@
       "bg": "bg3",
       "alignRight": false,
       "tags": ["Regional"],
-      "gems": [],
       "dev": true
     },
     {
@@ -309,7 +296,6 @@
       "bg": "bg3",
       "alignRight": false,
       "tags": ["Regional"],
-      "gems": [],
       "dev": true
     },
     {
@@ -331,7 +317,6 @@
       "bg": "bg3",
       "alignRight": false,
       "tags": ["Regional"],
-      "gems": [],
       "dev": true
     },
     {
@@ -351,7 +336,6 @@
       "bg": "bg3",
       "alignRight": false,
       "tags": ["Finance", "Policy"],
-      "gems": [],
       "dev": true,
       "links": [{"general": "https://dev.climatescenarios.org/earth/"}, { "title": "data", "href": "http://..." }, { "title": "scenario finder", "href": "http://..." }, { "title": "gem", "href": "http://..." }]
     },
@@ -372,7 +356,6 @@
       "bg": "bg3",
       "alignRight": false,
       "tags": ["Finance", "Policy"],
-      "gems": [],
       "dev": true,
       "links": [{"general": "http://..."}, { "title": "data", "href": "http://..." }, { "title": "scenario finder", "href": "http://..." }, { "title": "gem", "href": "http://..." }]
     },
@@ -380,7 +363,7 @@
       "portal": null,
       "portal-num": null,
       "link": "https://uclab.fh-potsdam.de/projects/co2/",
-      "linkText": "Watch the file",
+      "linkText": "Watch the film",
       "main-topic": "Budget",
       "path": "film",
       "id": "film",
@@ -393,7 +376,6 @@
       "bg": "bg3",
       "alignRight": false,
       "tags": ["Finance", "Policy"],
-      "gems": [],
       "dev": true,
       "links": [{"general": "http://..."}, { "title": "data", "href": "http://..." }, { "title": "scenario finder", "href": "http://..." }, { "title": "gem", "href": "http://..." }]
     }
