@@ -10,8 +10,8 @@
 | **subtitle** | String | Learn module, explore module, database, … | Toolkit |
 | **description** | String | Description of the module (~130–180 characters) | Both |
 | **authors** | Array | designers and scientists that authored the module | Both |
-| **available** | Boolean | Is the module already available? | Toolkit |
-| **link** | String | Absolute url to module | Both |
+| **visible** | Boolean | Is the module visible in the toolkit? | Toolkit |
+| **link** | [Boolean, String] | Absolute url to module or false if coming soon | Both |
 | **linkText** | [String, Boolean] | A custom link text. If set to false it uses the default »Read the module« | Toolkit |
 | **gems** | Array | List of objects with title url for each GEM | Both |
 | **portal** | String | The portal assigned to the module. Can be `Finance`, `Policy` or `null` if the module is not part of portals | Portals |
