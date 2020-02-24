@@ -7,8 +7,10 @@
 | Key | Type | Description | Used in |
 | :--- | :--- | :--- | :--- |
 | **title** | String | Title of the module (~30 characters max) | Both |
+| **subtitle** | String | Learn module, explore module, database, … | Toolkit |
 | **description** | String | Description of the module (~130–180 characters) | Both |
 | **authors** | Array | designers and scientists that authored the module | Both |
+| **available** | Boolean | Is the module already available? | Toolkit |
 | **link** | String | Absolute url to module | Both |
 | **linkText** | [String, Boolean] | A custom link text. If set to false it uses the default »Read the module« | Toolkit |
 | **gems** | Array | List of objects with title url for each GEM | Both |
