@@ -143,6 +143,7 @@
     {
       "portal": "Policy",
       "portal-num": [8, 9, 10],
+      "link": "https://dev.climatescenarios.org/earth/",
       "linkText": "Explore the module",
       "main-topic": "Extreme Events",
       "path": "extreme-events",
