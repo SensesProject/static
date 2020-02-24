@@ -18,6 +18,7 @@
       "bg": "bg3",
       "alignRight": false,
       "tags": ["Policy", "Finance", "Regional"],
+      "type": ["Learn"],
       "dev": false,
       "links": [{"general": "https://climatescenarios.org/primer/"}, { "title": "data", "href": "http://..." }, { "title": "scenario finder", "href": "http://..." }, { "title": "gem", "href": "http://..." }]
     },
@@ -38,6 +39,7 @@
       "bg": "bg1",
       "alignRight": true,
       "tags": ["Policy"],
+      "type": ["Learn"],
       "dev": true,
       "links": [{"general": "https://dev.climatescenarios.org/stocktake/"}, { "title": "data", "href": "http://..." }, { "title": "scenario finder", "href": "http://..." }, { "title": "gem", "href": "https://data.ene.iiasa.ac.at/iamc-1.5c-explorer//#/workspaces/share/1a6e44c8-0963-4f28-a871-2b81bfb11def" }]
     },
@@ -58,6 +60,7 @@
       "bg": "bg2",
       "alignRight": true,
       "tags": ["Policy"],
+      "type": ["Learn"],
       "dev": true,
       "links": [{"general": "https://dev.climatescenarios.org/stocktake/"}, { "title": "data", "href": "http://..." }, { "title": "scenario finder", "href": "http://..." }, { "title": "gem", "href": "http://..." }]
     },
@@ -77,6 +80,7 @@
       "bg": "bg1",
       "alignRight": true,
       "tags": ["Policy"],
+      "type": ["Learn"],
       "dev": true,
       "links": [{"general": "https://dev.climatescenarios.org/sector-transition/"}, { "title": "data", "href": "http://..." }, { "title": "scenario finder", "href": "http://..." }, { "title": "gem", "href": "http://..." }]
     },
@@ -97,6 +101,7 @@
       "bg": "bg3",
       "alignRight": false,
       "tags": ["Policy"],
+      "type": ["Learn"],
       "dev": true,
       "links": [{"general": "https://dev.climatescenarios.org/sector-transition/"}, { "title": "data", "href": "http://..." }, { "title": "scenario finder", "href": "http://..." }, { "title": "gem", "href": "http://..." }]
     },
@@ -117,6 +122,7 @@
       "bg": "bg3",
       "alignRight": false,
       "tags": ["Policy"],
+      "type": ["Learn"],
       "dev": true,
       "links": [{"general": "http://..."}, { "title": "data", "href": "http://..." }, { "title": "scenario finder", "href": "http://..." }, { "title": "gem", "href": "http://..." }]
     },
@@ -137,6 +143,7 @@
       "bg": "bg3",
       "alignRight": false,
       "tags": ["Policy"],
+      "type": ["Learn"],
       "dev": true,
       "links": [{"general": "http://..."}, { "title": "data", "href": "http://..." }, { "title": "scenario finder", "href": "http://..." }, { "title": "gem", "href": "http://..." }]
     },
@@ -158,6 +165,7 @@
       "bg": "bg3",
       "alignRight": false,
       "tags": ["Finance", "Policy"],
+      "type": ["Explore"],
       "dev": true,
       "links": [{"general": "https://dev.climatescenarios.org/earth/"}, { "title": "data", "href": "http://..." }, { "title": "scenario finder", "href": "http://..." }, { "title": "gem", "href": "http://..." }]
     },
@@ -178,6 +186,7 @@
       "bg": "bg3",
       "alignRight": false,
       "tags": ["Finance"],
+      "type": ["Learn"],
       "dev": true,
       "links": [{"general": "http://..."}, { "title": "data", "href": "http://..." }, { "title": "scenario finder", "href": "http://..." }, { "title": "gem", "href": "http://..." }]
     },
@@ -198,6 +207,7 @@
       "bg": "bg3",
       "alignRight": false,
       "tags": ["Policy","Finance"],
+      "type": ["Learn"],
       "dev": true,
       "links": [{"general": "http://..."}, { "title": "data", "href": "http://..." }, { "title": "scenario finder", "href": "http://..." }, { "title": "gem", "href": "http://..." }]
     },
@@ -219,6 +229,7 @@
       "bg": "bg3",
       "alignRight": false,
       "tags": ["Finance", "Policy"],
+      "type": ["Explore", "Database"],
       "dev": true,
       "links": [{"general": "https://dev.climatescenarios.org/finder/"}, { "title": "data", "href": "http://..." }, { "title": "scenario finder", "href": "http://..." }, { "title": "gem", "href": "http://..." }]
     },
@@ -237,7 +248,8 @@
       "authors": ["Sara Talebian", "Lotte de Jong", "Simona Pedde", "Jonas Parnow"],
       "bg": "bg3",
       "alignRight": false,
-      "tags": ["Regional"]
+      "tags": ["Regional"],
+      "type": ["Explore", "Database"]
     },
     {
       "linkText": "Explore the data",
@@ -252,7 +264,8 @@
       "visible": true,
       "bg": "bg3",
       "alignRight": false,
-      "tags": ["Regional"]
+      "tags": ["Regional"],
+      "type": ["Explore", "Database"]
     },
     {
       "path": "step-by-step",
@@ -265,7 +278,8 @@
       "visible": true,
       "bg": "bg3",
       "alignRight": false,
-      "tags": ["Regional"]
+      "tags": ["Regional"],
+      "type": ["Learn"]
     },
     {
       "portal": null,
@@ -285,6 +299,7 @@
       "bg": "bg3",
       "alignRight": false,
       "tags": ["Finance", "Policy"],
+      "type": ["Database"],
       "dev": true,
       "links": [{"general": "http://..."}, { "title": "data", "href": "http://..." }, { "title": "scenario finder", "href": "http://..." }, { "title": "gem", "href": "http://..." }]
     },
@@ -306,6 +321,7 @@
       "bg": "bg3",
       "alignRight": false,
       "tags": ["Finance", "Policy"],
+      "type": ["Learn", "Media"],
       "dev": true,
       "links": [{"general": "http://..."}, { "title": "data", "href": "http://..." }, { "title": "scenario finder", "href": "http://..." }, { "title": "gem", "href": "http://..." }]
     },
@@ -327,6 +343,7 @@
       "bg": "bg3",
       "alignRight": false,
       "tags": ["Policy"],
+      "type": ["Learn"],
       "dev": true,
       "links": [{"general": "https://dev.climatescenarios.org/extreme-events/#/"}, { "title": "data", "href": "http://..." }, { "title": "scenario finder", "href": "http://..." }, { "title": "gem", "href": "http://..." }]
     },
@@ -348,6 +365,7 @@
       "bg": "bg3",
       "alignRight": false,
       "tags": ["Finance"],
+      "type": ["Learn"],
       "dev": true,
       "links": [{"general": "https://dev.climatescenarios.org/fossil-fuels/"}, { "title": "data", "href": "http://..." }, { "title": "scenario finder", "href": "http://..." }, { "title": "gem", "href": "http://..." }]
     },
@@ -369,6 +387,7 @@
       "bg": "bg3",
       "alignRight": false,
       "tags": ["Finance"],
+      "type": ["Learn"],
       "dev": true,
       "links": [{"general": "http://..."}, { "title": "data", "href": "http://..." }, { "title": "scenario finder", "href": "http://..." }, { "title": "gem", "href": "http://..." }]
     }
