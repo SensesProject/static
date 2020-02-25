@@ -7,6 +7,7 @@
 | Key | Type | Description |
 | :--- | :--- | :--- |
 | **Toolkit 👩‍🎤 and Portals 📎** | | |
+| **id** | String | Unique id of the module |
 | **title** | String | Title of the module (~30 characters max) |
 | **description** | String | Description of the module (~130–180 characters) |
 | **authors** | Array | designers and scientists that authored the module |
@@ -14,8 +15,8 @@
 | **subtitle** | String | Learn module, explore module, database, … |
 | **tags** | Array | Additional tags for the module (could be »Policy«, »Finance«) |
 | **link** | [Boolean, String] | Absolute url to module or false if coming soon |
-| **visible** | Boolean | Is the module visible in the toolkit? |
-| **linkText** | [String, Boolean] | A custom link text. If set to false it uses the default »Read the module« |
+| **visible** | Boolean | Is the module visible in the toolkit? Default is `true`. |
+| **linkText** | [String, Boolean] | A custom link text. Default is `false` → »Read the module« |
 | **gems** | Array | List of objects with title url for each GEM |
 | **downloadIDs** | Array | List of IDs pointing to `downloads.json` |
 | **keywords** | String | Additional keywords used for search |
@@ -27,6 +28,7 @@
 | **path** | String | path of the module |
 | **readingTime** | String | Minutes (approx.) required to read the module |
 | **share** | String | The module has/has not additional material that can be downloaded from the "share" section |
+| **dev** | Boolean | ??? |
 | **links** | Array | Collection to links |
 | ↳ **general** | Object | The geneal path of the module |
 | ↳ **data** | Object | Link to additional data |
