@@ -21,7 +21,7 @@
 | **keywords** | String | Additional keywords used for search |
 | **bg** | String | Background image for Toolkit |
 | **PORTALS 📎** | | |
-| **portal** | String | The portal assigned to the module. Can be `Finance`, `Policy` or `null` if the module is not part of portals |
+| **portal** | Array | The portal assigned to the module. Can be `Finance`, `Policy` or `null` if the module is not part of portals |
 | **portal-num** | String | Position of the element in the portal based on the topic |
 | **main-topic** | String | Main topic of the module, useful for building the subway line menu in Portal |
 | **path** | String | path of the module |
