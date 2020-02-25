@@ -6,7 +6,7 @@
 
 | Key | Type | Description |
 | :--- | :--- | :--- |
-| **Toolkit 👩‍🎤 and Portals 📎 ** | | |
+| **Toolkit 👩‍🎤 and Portals 📎** | | |
 | **title** | String | Title of the module (~30 characters max) |
 | **description** | String | Description of the module (~130–180 characters) |
 | **authors** | Array | designers and scientists that authored the module |
