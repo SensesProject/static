@@ -4,28 +4,34 @@
 
 🔖 The file is available online at `https://dev.climatescenarios.org/settings/modules.json`
 
-| Key | Type | Description | Used in |
-| :--- | :--- | :--- | :--- |
-| **title** | String | Title of the module (~30 characters max) | Both |
-| **subtitle** | String | Learn module, explore module, database, … | Toolkit |
-| **description** | String | Description of the module (~130–180 characters) | Both |
-| **authors** | Array | designers and scientists that authored the module | Both |
-| **visible** | Boolean | Is the module visible in the toolkit? | Toolkit |
-| **link** | [Boolean, String] | Absolute url to module or false if coming soon | Both |
-| **linkText** | [String, Boolean] | A custom link text. If set to false it uses the default »Read the module« | Toolkit |
-| **gems** | Array | List of objects with title url for each GEM | Both |
-| **portal** | String | The portal assigned to the module. Can be `Finance`, `Policy` or `null` if the module is not part of portals | Portals |
-| **portal-num** | String | Position of the element in the portal based on the topic | Portals |
-| **main-topic** | String | Main topic of the module, useful for building the subway line menu in Portal | Portals |
-| **path** | String | path of the module | Portals |
-| **readingTime** | String | Minutes (approx.) required to read the module | Portals |
-| **downloadIDs** | Array | List of IDs pointing to `downloads.json` | Portals |
-| **share** | String | The module has/has not additional material that can be downloaded from the "share" section | Portals |
-| **bg** | String | background image for Toolkit | Toolkit |
-| **alignRight** | Boolean | position of header in the Toolkit | Portals |
-| **keywords** | Array | Additional keywords used for search | Toolkit |
-| **tags** | Array | Additional tags for the module (could be »Policy«, »Finance«) | Portals |
-| **links** | Object | Collection to links | general: | the geneal path of the module, | data: | link to additional data, | gems: | link to GEMs view, | scenariofinder: | link to scenario finder view. More can be added.
+| Key | Type | Description |
+| :--- | :--- | :--- |
+| **Toolkit and Portals** | | |
+| **title** | String | Title of the module (~30 characters max) |
+| **description** | String | Description of the module (~130–180 characters) |
+| **authors** | Array | designers and scientists that authored the module |
+| **tags** | Array | Additional tags for the module (could be »Policy«, »Finance«) |
+| **TOOLKIT** | | |
+| **subtitle** | String | Learn module, explore module, database, … |
+| **link** | [Boolean, String] | Absolute url to module or false if coming soon |
+| **visible** | Boolean | Is the module visible in the toolkit? |
+| **linkText** | [String, Boolean] | A custom link text. If set to false it uses the default »Read the module« |
+| **gems** | Array | List of objects with title url for each GEM |
+| **downloadIDs** | Array | List of IDs pointing to `downloads.json` |
+| **keywords** | String | Additional keywords used for search |
+| **bg** | String | Background image for Toolkit |
+| **PORTALS** | | |
+| **portal** | String | The portal assigned to the module. Can be `Finance`, `Policy` or `null` if the module is not part of portals |
+| **portal-num** | String | Position of the element in the portal based on the topic |
+| **main-topic** | String | Main topic of the module, useful for building the subway line menu in Portal |
+| **path** | String | path of the module |
+| **readingTime** | String | Minutes (approx.) required to read the module |
+| **share** | String | The module has/has not additional material that can be downloaded from the "share" section |
+| **links** | Array | Collection to links |
+| ↳ **general** | Object | The geneal path of the module |
+| ↳ **data** | Object | Link to additional data |
+| ↳ **gems** | Object | Link to GEMs view |
+| ↳ **scenariofinder** | Object | Link to scenario finder view |
 
 ## Downloads 📦
 `downloads.json` hold a list of all downloadable items. Modules can have multiple download items.
