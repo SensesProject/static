@@ -353,7 +353,7 @@
     {
       "portal": "Finance",
       "portal-num": 1,
-      "link": "https://dev.climatescenarios.org/transition-risk/",
+      "link": "https://dev.climatescenarios.org/fossil-fuels/",
       "main-topic": "Risks",
       "path": "transition-risk",
       "id": "transition-risk",
@@ -362,7 +362,6 @@
       "description": "Discover finance risks related to transitions in a variety of sectors including: Fossil fuels, End User and Power",
       "keywords": "",
       "authors": ["Nico Bauer", "Bas van Ruijven", "Nadia Zeissig"],
-      "visible": false,
       "data": false,
       "downloadIDs": false,
       "alignRight": false,
