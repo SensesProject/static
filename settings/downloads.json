@@ -2,31 +2,22 @@
   "downloads": [
     {
       "id": 1,
-      "label": "Static visualisation graphics",
-      "link": "#",
+      "label": "Global CO₂ emissions",
+      "link": "http://dev.climatescenarios.org/share/stocktake-1-co2.zip",
       "licence": "Creative Commons Attribution-ShareAlike 4.0 International",
       "reference": "Senses (2020), Global Stocktake",
-      "authors": ["Fidel Thomet"],
-      "description": "The package contains 12 high-resolution static graphics from the Primer in SVG and PNG formats.",
-      "previews": ["primer-1.png", "primer-2.png", "primer-3.png"]
+      "authors": ["Christoph Bertram", "Jonas Parnow"],
+      "description": "The package contains 12 high-resolution static graphics from the Global Stocktake module in PDF and PNG formats.",
+      "previews": ["stocktake-1-budget-preview.png", "stocktake-1-scenarios-preview.png"]
     }, {
       "id": 2,
-      "label": "Printable Primer",
-      "link": "#",
+      "label": "Additional graphs",
+      "link": "http://dev.climatescenarios.org/share/stocktake-2-graphs.zip",
       "licence": "Creative Commons Attribution-ShareAlike 4.0 International",
       "reference": "Senses (2020), Global Stocktake",
-      "authors": ["Fidel Thomet"],
-      "description": "The package contains 12 high-resolution static graphics from the Primer in SVG and PNG formats.",
-      "previews": ["primer-1.png", "primer-2.png", "primer-3.png"]
-    }, {
-      "id": 3,
-      "label": "SSP Mood Images",
-      "link": "#",
-      "licence": "Creative Commons Attribution-ShareAlike 4.0 International",
-      "reference": "Senses (2020), Global Stocktake",
-      "authors": ["Fidel Thomet"],
-      "description": "The package contains 12 high-resolution static graphics from the Primer in SVG and PNG formats.",
-      "previews": ["primer-1.png", "primer-2.png", "primer-3.png"]
+      "authors": ["Christoph Bertram", "Jonas Parnow"],
+      "description": "The package contains 12 high-resolution static graphics from the Global Stocktake module in PDF and PNG formats.",
+      "previews": ["stocktake-1-investment-preview.png", "stocktake-1-investment-preview.png", "stocktake-1-investment-preview.png"]
     }
   ]
 }

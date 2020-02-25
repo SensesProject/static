@@ -10,7 +10,7 @@
       "type": ["Learn"],
       "link": "https://climatescenarios.org/primer/",
       "gems": [{ "title": "Risk factor pathways", "url": "https://gems-gilt.now.sh/#/finance-wyman-indicators" }],
-      "downloadIDs": [1, 2, 3],
+      "downloadIDs": [1, 2],
       "keywords": "projection pathway ssp socioeconomic emissions concentration climate change impact mitigation adaptation integrated iam integrated assessment model",
       "bg": "primer",
       "portal": ["Policy", "Finance"],
@@ -34,7 +34,7 @@
       "subtitle": "Learn module",
       "keywords": "decarbonization plan paris agreement target emission gap carbon budget temperature stranded assets land use investment cost-effective policies policy mitigation technology cdr carbon dioxide removal short term long bridge scenario",
       "readingTime": 15,
-      "downloadIDs": [1],
+      "downloadIDs": [1, 2],
       "gems": [
         { "title": "Global Stocktake Scenario Comparison", "url": "https://gems-gilt.now.sh/#/stocktake-models_WhereDoWeWantToGo" },
         { "title": "How do we get there - means of mitigation?", "url": "https://gems-gilt.now.sh/#/stocktake-models_HowDoWeGetThere_Energy" },
