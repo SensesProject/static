@@ -14,10 +14,11 @@
 | **TOOLKIT 👩‍🎤** | | |
 | **subtitle** | String | Learn module, explore module, database, … |
 | **tags** | Array | Additional tags for the module (could be »Policy«, »Finance«) |
-| **link** | [Boolean, String] | Absolute url to module or false if coming soon |
+| **link** | [Boolean, String] | Path (absolute url or relative) to module or false (default) if coming soon |
 | **visible** | Boolean | Is the module visible in the toolkit? Default is `true`. |
 | **linkText** | [String, Boolean] | A custom link text. Default is `false` → »Read the module« |
-| **gems** | Array | List of objects with title url for each GEM |
+| **gems** | String | Absolute link to the gems |
+| **gemsAmount** | Number | Will be auto generated later |
 | **downloadIDs** | Array | List of IDs pointing to `downloads.json` |
 | **keywords** | String | Additional keywords used for search |
 | **bg** | String | Background image for Toolkit |
@@ -28,7 +29,6 @@
 | **path** | String | path of the module |
 | **readingTime** | String | Minutes (approx.) required to read the module |
 | **share** | String | The module has/has not additional material that can be downloaded from the "share" section |
-| **dev** | Boolean | ??? |
 | **links** | Array | Collection to links |
 | ↳ **general** | Object | The geneal path of the module |
 | ↳ **data** | Object | Link to additional data |
