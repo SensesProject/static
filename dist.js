@@ -27,7 +27,7 @@ modules.forEach(m => {
   })
 
   archive.pipe(fileOutput)
-  archive.directory(`${FOLDER_MODULES}${FOLDER_SHARE}/${m}`, m)
+  archive.directory(`${FOLDER_MODULES}/${m}`, m)
   archive.on('error', function (err) {
     throw err
   })
