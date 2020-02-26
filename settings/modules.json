@@ -32,7 +32,7 @@
       "keywords": "decarbonization plan paris agreement target emission gap carbon budget temperature stranded assets land use investment cost-effective policies policy mitigation technology cdr carbon dioxide removal short term long bridge scenario",
       "readingTime": 15,
       "downloadIDs": [1, 2],
-      "gems": "https://gems-gilt.now.sh",
+      "gems": "https://gems-gilt.now.sh/#/stocktake-1",
       "gemsAmount": 5,
       "bg": "stocktake",
       "alignRight": true,
@@ -126,11 +126,8 @@
       "path": "land-use",
       "readingTime": 10,
       "downloadIDs": false,
-      "gems": [
-        { "title": "Historic development", "url": "https://gems-gilt.now.sh/#/landuse_historicDevelopment" },
-        { "title": "Where do we want to go", "url": "https://gems-gilt.now.sh/#/landuse_WhereDoWeWantToGo" },
-        { "title": "Impact response measures", "url": "https://gems-gilt.now.sh/#/landuse_ImpactResponseMeasures" }
-      ],
+      "gems": "https://gems-gilt.now.sh/#/land-transitions",
+      "gemsAmount": 3,
       "bg": "land-transitions",
       "alignRight": false,
       "tags": ["Policy"],
