@@ -1,7 +1,11 @@
 # Senses Share Materials and Settings 🔛
+- downloadable material ([`./modules`](./modules)) 🔧
+- settings/metadata for each module ([`./settings/modules.json`](./settings/modules.json)) and downloads ([`./settings/downloads.json`](./settings/downloads.json)) 🎚️
+- preview images for downloads ([`./previews`](./previews)) 🖼
+
 Here lives the single folder with downloadable material for each Senses module as well as the settings/metadata for each module.
 
-## How to 🔧
+## How to downloadable material 🔧
 To provide downloadable material for your module you will have to create a
 folder with the module name.
 
@@ -18,7 +22,7 @@ standard convention:
 [number]-[title]-[data].csv
 ```
 
-## Distribution 📦
+### Distribution 📦
 There is a script to zip all the subfolders of `/modules` and place them into `/dist` as `[module-name].zip`.
 
 __Setup__
@@ -31,6 +35,9 @@ __Zip__
 npm run build
 ```
 
-## Settings 🎚️
+## How to settings 🎚️
 More information about keys are located in [`./settings/`](./settings/)
 Setting files are deployed here: `https://dev.climatescenarios.org/settings`
+
+## How to previews 🖼
+Place preview images in [`./previews`](./previews)
