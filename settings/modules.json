@@ -8,8 +8,7 @@
       "subtitle": "Learn module",
       "tags": ["Policy", "Finance", "Regional"],
       "type": ["Learn"],
-      "link": "https://climatescenarios.org/primer/",
-      "gems": [{ "title": "Risk factor pathways", "url": "https://gems-gilt.now.sh/#/finance-wyman-indicators" }],
+      "link": "/primer",
       "downloadIDs": [1, 2],
       "keywords": "projection pathway ssp socioeconomic emissions concentration climate change impact mitigation adaptation integrated iam integrated assessment model",
       "bg": "primer",
@@ -17,8 +16,7 @@
       "portal-num": 0,
       "main-topic": "primer",
       "path": "primer",
-      "readingTime": 45,
-      "dev": false
+      "readingTime": 45
     },
     {
       "id": "stocktake-1",
@@ -27,25 +25,19 @@
       "authors": ["Christoph Bertram", "Jonas Parnow"],
       "portal": "Policy",
       "portal-num": 1,
-      "link": "https://dev.climatescenarios.org/stocktake/",
+      "link": "/stocktake",
       "main-topic": "Budget",
       "path": "stocktake-1",
       "subtitle": "Learn module",
       "keywords": "decarbonization plan paris agreement target emission gap carbon budget temperature stranded assets land use investment cost-effective policies policy mitigation technology cdr carbon dioxide removal short term long bridge scenario",
       "readingTime": 15,
       "downloadIDs": [1, 2],
-      "gems": [
-        { "title": "Global Stocktake Scenario Comparison", "url": "https://gems-gilt.now.sh/#/stocktake-models_WhereDoWeWantToGo" },
-        { "title": "How do we get there - means of mitigation?", "url": "https://gems-gilt.now.sh/#/stocktake-models_HowDoWeGetThere_Energy" },
-        { "title": "How do we get there - means of implementation and support?", "url": "https://gems-gilt.now.sh/#/stocktake-models_HowDoWeGetThere_Money" },
-        { "title": "Scenario Sensitivities", "url": "https://gems-gilt.now.sh/#/stocktake-sensitivities-policy" },
-        { "title": "Scenario Sensitivities", "url": "https://gems-gilt.now.sh/#/stocktake-sensitivities-CDR_avail" }
-      ],
+      "gems": "https://gems-gilt.now.sh",
+      "gemsAmount": 5,
       "bg": "stocktake",
       "alignRight": true,
       "tags": ["Policy"],
-      "type": ["Learn"],
-      "dev": true
+      "type": ["Learn"]
     },
     {
       "id": "stocktake-2",
@@ -54,7 +46,6 @@
       "authors": ["Christoph Bertram", "Jonas Parnow"],
       "portal": "Policy",
       "portal-num": 2,
-      "link": "https://...",
       "main-topic": "Budget",
       "path": "stocktake-2",
       "subtitle": "Learn module",
@@ -62,11 +53,9 @@
       "visible": false,
       "readingTime": 15,
       "downloadIDs": [1],
-      "bg": "bg2",
       "alignRight": true,
       "tags": ["Policy"],
-      "type": ["Learn"],
-      "dev": true
+      "type": ["Learn"]
     },
     {
       "id": "transition-path-1",
@@ -75,7 +64,7 @@
       "authors": ["Falko Ueckerdt", "Felix Schreyer", "Francesca Morini"],
       "portal": "Policy",
       "portal-num": 3,
-      "link": "https://dev.climatescenarios.org/sector-transition/",
+      "link": "/sector-transition",
       "main-topic": "Transitions",
       "path": "transition-path-1",
       "subtitle": "Learn module",
@@ -85,8 +74,7 @@
       "bg": "transition-path-1",
       "alignRight": true,
       "tags": ["Policy"],
-      "type": ["Learn"],
-      "dev": true
+      "type": ["Learn"]
     },
     {
       "id": "transition-path-2",
@@ -95,7 +83,6 @@
       "authors": ["Falko Ueckerdt", "Felix Schreyer", "Francesca Morini"],
       "portal": "Policy",
       "portal-num": 4,
-      "link": "https://...",
       "main-topic": "Transitions",
       "path": "transition-path-2",
       "subtitle": "Learn module",
@@ -105,8 +92,7 @@
       "downloadIDs": false,
       "alignRight": false,
       "tags": ["Policy"],
-      "type": ["Learn"],
-      "dev": true
+      "type": ["Learn"]
     },
     {
       "id": "impact-demand",
@@ -115,7 +101,6 @@
       "authors": ["Arnulf Grübler", "Volker Krey", "Charlie Wilson", "Francesca Morini"],
       "portal": "Policy",
       "portal-num": null,
-      "link": "https://...",
       "main-topic": "Demand",
       "path": "impact-demand",
       "subtitle": "Learn module",
@@ -125,8 +110,7 @@
       "downloadIDs": false,
       "alignRight": false,
       "tags": ["Policy"],
-      "type": ["Learn"],
-      "dev": true
+      "type": ["Learn"]
     },
     {
       "id": "land-transitions",
@@ -137,7 +121,7 @@
       "subtitle": "Learn module",
       "portal": "Policy",
       "portal-num": 6,
-      "link": "https://dev.climatescenarios.org/land-use/",
+      "link": "/land-use",
       "main-topic": "Transitions",
       "path": "land-use",
       "readingTime": 10,
@@ -150,8 +134,7 @@
       "bg": "land-transitions",
       "alignRight": false,
       "tags": ["Policy"],
-      "type": ["Learn"],
-      "dev": true
+      "type": ["Learn"]
     },
     {
       "id": "extreme-events",
@@ -161,7 +144,7 @@
       "subtitle": "Explore module",
       "portal": "Policy",
       "portal-num": [8, 9, 10],
-      "link": "https://dev.climatescenarios.org/earth/",
+      "link": "/earth",
       "linkText": "Explore the module",
       "main-topic": "Extreme Events",
       "path": "extreme-events",
@@ -171,8 +154,7 @@
       "bg": "senses-earth",
       "alignRight": false,
       "tags": ["Finance", "Policy"],
-      "type": ["Explore"],
-      "dev": true
+      "type": ["Explore"]
     },
     {
       "id": "investment-opportunities",
@@ -182,7 +164,7 @@
       "subtitle": "Learn module",
       "portal": "Finance",
       "portal-num": 2,
-      "link": "https://dev.climatescenarios.org/investment-opportunities/",
+      "link": "/investment-opportunities",
       "main-topic": "Opportunities",
       "path": "investment-opportunities",
       "keywords": "",
@@ -191,8 +173,7 @@
       "alignRight": false,
       "bg": "investment-opportunities",
       "tags": ["Finance"],
-      "type": ["Learn"],
-      "dev": true
+      "type": ["Learn"]
     },
     {
       "id": "primary-energy",
@@ -202,7 +183,7 @@
       "subtitle": "Learn module",
       "portal": "Policy",
       "portal-num": 5,
-      "link": "https://dev.climatescenarios.org/primary-energy-scenarios/",
+      "link": "/primary-energy-scenarios",
       "main-topic": "Transitions",
       "path": "primary-energy",
       "keywords": "",
@@ -211,8 +192,7 @@
       "bg": "primary-energy",
       "alignRight": false,
       "tags": ["Policy","Finance"],
-      "type": ["Learn"],
-      "dev": true
+      "type": ["Learn"]
     },
     {
       "id": "finder",
@@ -222,7 +202,7 @@
       "authors": ["Volker Krey", "Jonas Parnow"],
       "portal": null,
       "portal-num": null,
-      "link": "https://dev.climatescenarios.org/finder/",
+      "link": "/finder",
       "linkText": "Explore the data",
       "main-topic": "finder",
       "path": "finder",
@@ -231,13 +211,12 @@
       "downloadIDs": false,
       "alignRight": false,
       "tags": ["Finance", "Policy"],
-      "type": ["Explore", "Database"],
-      "dev": true
+      "type": ["Explore", "Database"]
     },
     {
       "portal": null,
       "portal-num": null,
-      "link": "https://dev.climatescenarios.org/technique-finder/",
+      "link": "/technique-finder",
       "linkText": "Explore the data",
       "main-topic": "finder",
       "path": "technique-finder",
@@ -273,7 +252,7 @@
       "subtitle": "Learn module",
       "description": "Practitioners’ step-by-step guide to co-producing socioeconomic Scenarios with Stakeholders to strengthening the link between global and regional scenarios using co-production techniques.",
       "keywords": "",
-      "authors": ["Jonas Parnow"],
+      "authors": ["Sara Talebian", "Lotte de Jong", "Simona Pedde", "Jonas Parnow"],
       "visible": true,
       "alignRight": false,
       "tags": ["Regional"],
@@ -296,8 +275,7 @@
       "downloadIDs": false,
       "alignRight": false,
       "tags": ["Finance", "Policy"],
-      "type": ["Database"],
-      "dev": true
+      "type": ["Database"]
     },
     {
       "portal": null,
@@ -316,13 +294,12 @@
       "downloadIDs": false,
       "alignRight": false,
       "tags": ["Finance", "Policy"],
-      "type": ["Learn", "Media"],
-      "dev": true
+      "type": ["Learn", "Media"]
     },
     {
       "portal": "Policy",
       "portal-num": 7,
-      "link": "https://dev.climatescenarios.org/extreme-events/",
+      "link": "/extreme-events",
       "main-topic": "Transitions",
       "path": "land-affected",
       "id": "land-affected",
@@ -337,13 +314,12 @@
       "downloadIDs": false,
       "alignRight": false,
       "tags": ["Policy"],
-      "type": ["Learn"],
-      "dev": true
+      "type": ["Learn"]
     },
     {
       "portal": "Finance",
       "portal-num": 1,
-      "link": "https://dev.climatescenarios.org/fossil-fuels/",
+      "link": "/fossil-fuels",
       "main-topic": "Risks",
       "path": "transition-risk",
       "id": "transition-risk",
@@ -356,13 +332,12 @@
       "downloadIDs": false,
       "alignRight": false,
       "tags": ["Finance"],
-      "type": ["Learn"],
-      "dev": true
+      "type": ["Learn"]
     },
     {
       "portal": "Finance",
       "portal-num": 3,
-      "link": "https://dev.climatescenarios.org/physical-risks/",
+      "link": "/physical-risks",
       "main-topic": "Risks",
       "path": "physical-risks",
       "id": "physical-risks",
@@ -376,8 +351,7 @@
       "downloadIDs": false,
       "alignRight": false,
       "tags": ["Finance"],
-      "type": ["Learn"],
-      "dev": true
+      "type": ["Learn"]
     }
   ]
 }
