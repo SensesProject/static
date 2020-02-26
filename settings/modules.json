@@ -8,9 +8,6 @@
       "subtitle": "Learn module",
       "tags": ["Policy", "Finance", "Regional"],
       "type": ["Learn"],
-<<<<<<< HEAD
-      "dev": false
-=======
       "link": "https://climatescenarios.org/primer/",
       "gems": [{ "title": "Risk factor pathways", "url": "https://gems-gilt.now.sh/#/finance-wyman-indicators" }],
       "downloadIDs": [1, 2],
@@ -21,9 +18,7 @@
       "main-topic": "primer",
       "path": "primer",
       "readingTime": 45,
-      "dev": false,
-      "links": [{"general": "https://climatescenarios.org/primer/"}, { "title": "data", "href": "http://..." }, { "title": "scenario finder", "href": "http://..." }, { "title": "gem", "href": "http://..." }]
->>>>>>> 997af2ed0432adc1159c990ba733e403f093d5ef
+      "dev": false
     },
     {
       "id": "stocktake-1",
