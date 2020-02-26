@@ -152,6 +152,24 @@
       "type": ["Learn"]
     },
     {
+      "portal": "Finance",
+      "portal-num": 1,
+      "link": "/fossil-fuels",
+      "main-topic": "Risks",
+      "path": "transition-risk",
+      "id": "transition-risk",
+      "title": "Fossil Fuels Risks",
+      "subtitle": "Learn module",
+      "description": "Discover finance risks related to transitions in a variety of sectors including: Fossil fuels, End User and Power",
+      "keywords": "",
+      "authors": ["Nico Bauer", "Bas van Ruijven", "Nadia Zeissig"],
+      "data": false,
+      "downloadIDs": false,
+      "alignRight": false,
+      "tags": ["Finance"],
+      "type": ["Learn"]
+    },
+    {
       "id": "primary-energy",
       "title": "Primary Energy Scenarios",
       "description": "Learn about the concept of primary energy sources like coal, oil and solar radiation. This module explains conversion processes and scenarios in the SSP worlds.",
@@ -330,24 +348,6 @@
       "downloadIDs": false,
       "alignRight": false,
       "tags": ["Policy"],
-      "type": ["Learn"]
-    },
-    {
-      "portal": "Finance",
-      "portal-num": 1,
-      "link": "/fossil-fuels",
-      "main-topic": "Risks",
-      "path": "transition-risk",
-      "id": "transition-risk",
-      "title": "Fossil Fuels Risks",
-      "subtitle": "Learn module",
-      "description": "Discover finance risks related to transitions in a variety of sectors including: Fossil fuels, End User and Power",
-      "keywords": "",
-      "authors": ["Nico Bauer", "Bas van Ruijven", "Nadia Zeissig"],
-      "data": false,
-      "downloadIDs": false,
-      "alignRight": false,
-      "tags": ["Finance"],
       "type": ["Learn"]
     }
   ]
