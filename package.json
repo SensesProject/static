@@ -5,7 +5,7 @@
   "type": "module",
   "main": "dist.js",
   "scripts": {
-    "build": "node --no-warnings dist.js"
+    "build": "node --no-warnings scripts/dist.js"
   },
   "repository": {
     "type": "git",
