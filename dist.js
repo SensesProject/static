@@ -41,9 +41,9 @@ settings.forEach(f => {
   const from = `.${FOLDER_SETTINGS}/${f}`
   const to = `${FOLDER_DIST}${FOLDER_SETTINGS}/${f}`
   fs.copyFile(from, to, (err) => {
-    if (err) throw err;
+    if (err) throw err
     console.log(`${chalk.cyan.bold(from)} ${chalk.yellow.bold('→')} ${chalk.magenta.bold(to)} 📦`)
-  });
+  })
 })
 
 // Previews
@@ -53,7 +53,7 @@ previews.forEach(f => {
   const from = `${FOLDER_PREVIEWS}/${f}`
   const to = `${FOLDER_DIST}${FOLDER_SHARE}/${f}`
   fs.copyFile(from, to, (err) => {
-    if (err) throw err;
+    if (err) throw err
     console.log(`${chalk.cyan.bold(from)} ${chalk.yellow.bold('→')} ${chalk.magenta.bold(to)} 📦`)
-  });
+  })
 })
