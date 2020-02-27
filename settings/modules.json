@@ -214,7 +214,7 @@
       "authors": [ "Sara Talebian", "Henrik Carlsen", "Nienke Ansems", "Eric Kemp-Benedict", "Jonas Parnow" ],
       "description": "How can we do co-production? The co-production database provides an overview of different methods and tools for specific co-production objectives.",
       "keywords": "",
-      "link": "https://scenario-finder.netlify.com/techniques/",
+      "link": "/finder/techniques",
       "linkText": "Explore the data",
       "main-topic": "finder",
       "path": "technique-finder",
