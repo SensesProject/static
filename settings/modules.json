@@ -347,8 +347,7 @@
       "readingTime": 25,
       "subtitle": "Learn module",
       "tags": [ "Policy" ],
-      "type": [ "Learn" ],
-      "visible": false
+      "type": [ "Learn" ]
     }
   ]
 }
