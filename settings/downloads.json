@@ -18,6 +18,15 @@
       "authors": ["Christoph Bertram", "Jonas Parnow"],
       "description": "The package contains 12 high-resolution static graphics from the Global Stocktake module in PDF and PNG formats.",
       "previews": ["stocktake-1-investment-preview.png", "stocktake-1-investment-preview.png", "stocktake-1-investment-preview.png"]
+    }, {
+      "id": 3,
+      "label": "Additional graphs",
+      "link": "http://dev.climatescenarios.org/share/electrification.zip",
+      "licence": "Creative Commons Attribution-ShareAlike 4.0 International",
+      "reference": "Senses (2020), Towards an Electric Future",
+      "authors": ["Falko Ueckerdt", "Francesca Morini"],
+      "description": "The package contains 4 high-resolution static graphics from the Towards and Electric Future module in PDF and PNG formats.",
+      "previews": ["stocktake-1-investment-preview.png", "stocktake-1-investment-preview.png", "stocktake-1-investment-preview.png"]
     }
   ]
 }
