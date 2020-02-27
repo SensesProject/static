@@ -209,10 +209,10 @@
     },
     {
       "id": "technique-finder",
-      "title": "Co-Creation Techniques Finder",
+      "title": "Co-production Techniques Finder",
       "alignRight": false,
-      "authors": [ "Sara Talebian", "Lotte de Jong", "Simona Pedde", "Jonas Parnow" ],
-      "description": "This explore module allows you to quickly filter co-creation techniques",
+      "authors": [ "Sara Talebian", "Henrik Carlsen", "Jonas Parnow" ],
+      "description": "How can we do co-production? The co-production database provides an overview of different methods and tools for specific co-production objectives.",
       "keywords": "",
       "link": "https://scenario-finder.netlify.com/techniques/",
       "linkText": "Explore the data",
@@ -226,10 +226,10 @@
     },
     {
       "id": "risk-finder",
-      "title": "Risk Finder",
+      "title": "Climate risks Finder",
       "alignRight": false,
-      "authors": [ "Sara Talebian", "Jonas Parnow" ],
-      "description": "This explore module allows you to quickly filter risks",
+      "authors": [ "Sara Talebian", "Henrik Carlsen" ],
+      "description": "How can we interpret scenarios for risk assesments? The risk finder provides an overview of direct and indirect risks of climate change.",
       "keywords": "",
       "linkText": "Explore the data",
       "main-topic": "finder",
@@ -281,10 +281,10 @@
     },
     {
       "id": "step-by-step",
-      "title": "Co-creating scenarios: Step-by-step guide",
+      "title": "Co-producing adaptation strategies",
       "alignRight": false,
-      "authors": [ "Sara Talebian", "Lotte de Jong", "Simona Pedde", "Jonas Parnow" ],
-      "description": "Practitioners’ step-by-step guide to co-producing socioeconomic Scenarios with Stakeholders to strengthening the link between global and regional scenarios using co-production techniques.",
+      "authors": [ "Simona Pedde", "Sara Talebian", "Henrik Carlsen", "Kasper Kok", "Lotte de Jong" ],
+      "description": "We can explore what could happen, but how do we deal with the concequences of these scenarios; how do we adapt? The step-by-step module guides you towards robus adaptation by the use of scenario's and co-production techniques. The detailed steps provide examples and on how to make you own adaptation strategy.",
       "keywords": "",
       "path": "step-by-step",
       "subtitle": "Learn module",
@@ -347,8 +347,7 @@
       "readingTime": 25,
       "subtitle": "Learn module",
       "tags": [ "Policy" ],
-      "type": [ "Learn" ],
-      "visible": false
+      "type": [ "Learn" ]
     }
   ]
 }
