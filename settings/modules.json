@@ -105,7 +105,7 @@
       "portal": "Policy",
       "portal-num": 6,
       "readingTime": 10,
-      "subtitle": "Learn module",
+      "subtitle": "Work in Progress – Learn module",
       "tags": [ "Policy" ],
       "type": [ "Learn" ]
     },
@@ -142,7 +142,7 @@
       "portal": "Finance",
       "portal-num": 2,
       "readingTime": 25,
-      "subtitle": "Learn module",
+      "subtitle": "Work in Progress – Learn module",
       "tags": [ "Finance" ],
       "type": [ "Learn" ]
     },
@@ -335,7 +335,7 @@
       "portal": "Policy",
       "portal-num": 7,
       "readingTime": 10,
-      "subtitle": "Learn module",
+      "subtitle": "Work in Progress – Learn module",
       "tags": [ "Policy" ],
       "type": [ "Learn" ]
     }
