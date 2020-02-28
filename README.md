@@ -41,3 +41,13 @@ Setting files are deployed here: `https://dev.climatescenarios.org/settings`
 
 ## How to previews 🖼
 Place preview images in [`./previews`](./previews)
+
+## Troubeshoot
+For this issues:
+```
+import fs from 'fs'
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+```
+Try using a newer NodeJS version: `nvm use 13.9.0`
