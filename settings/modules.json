@@ -153,7 +153,7 @@
       "authors": [ "Nico Bauer", "Bas van Ruijven", "Nadia Zeissig", "Francesca Morini", "Fidel Thomet" ],
       "data": false,
       "description": "Discover finance risks related to transitions in a variety of sectors including: Fossil fuels, End User and Power",
-      "downloadIDs": [ 0 ],
+      "downloadIDs": [],
       "gems": "/gems/#/transition-risk",
       "gemsAmount": 3,
       "keywords": "",
