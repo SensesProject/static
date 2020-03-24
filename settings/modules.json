@@ -154,7 +154,7 @@
       "bg": "transition-risks",
       "data": false,
       "description": "Discover finance risks related to transitions in a variety of sectors including: Fossil fuels, End User and Power",
-      "downloadIDs": [],
+      "downloadIDs": [ 4 ],
       "gems": "/gems/#/transition-risk",
       "gemsAmount": 3,
       "keywords": "",

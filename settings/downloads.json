@@ -33,7 +33,7 @@
       "link": "http://dev.climatescenarios.org/share/electrification.zip",
       "licence": "Creative Commons Attribution-ShareAlike 4.0 International",
       "reference": "Senses (2020), Fossil Fuels Risks",
-      "authors": ["Falko Ueckerdt", "Francesca Morini"],
+      "authors": ["Nico Bauer", "Bas van Ruijven", "Nadia Zeissig", "Francesca Morini", "Fidel Thomet"],
       "description": "The package contains high-resolution static graphics from the Fossil Fuels Risk module in PDF and PNG formats",
       "previews": ["01-fossifuels.png", "02-fossifuels.png", "03-fossifuels.png"]
     }
