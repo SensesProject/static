@@ -168,6 +168,27 @@
       "type": [ "Learn" ]
     },
     {
+      "id": "power-sector",
+      "title": "Power Sector Risks",
+      "alignRight": false,
+      "authors": [ "Bas van Ruijven", "Jihoon Min", "Nadia Zeissig", "Francesca Morini" ],
+      "bg": "transition-risks",
+      "data": false,
+      "description": "Discover finance risks related to transitions in a variety of sectors including: Fossil fuels, End User and Power",
+      "downloadIDs": [],
+      "gems": "",
+      "gemsAmount": 0,
+      "keywords": "power sector electricity finance investments risks economy transition",
+      "link": "/power-sector",
+      "main-topic": "Risks",
+      "path": "power-sector",
+      "portal": "Finance",
+      "portal-num": 1,
+      "subtitle": "Learn module",
+      "tags": [ "Finance" ],
+      "type": [ "Learn" ]
+    },
+    {
       "id": "primary-energy",
       "title": "Primary Energy Scenarios",
       "alignRight": false,
