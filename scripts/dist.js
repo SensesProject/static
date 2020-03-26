@@ -42,7 +42,7 @@ settings.forEach(f => {
   const to = `${FOLDER_DIST}${FOLDER_SETTINGS}/${f}`
   fs.copyFile(from, to, (err) => {
     if (err) throw err
-    console.log(`${chalk.cyan.bold(from)} ${chalk.yellow.bold('→')} ${chalk.magenta.bold(to)} 🎚️`)
+    console.log(`${chalk.cyan.bold(from)} ${chalk.yellow.bold('→')} ${chalk.magenta.bold(to)} 📃`)
   })
 })
 
