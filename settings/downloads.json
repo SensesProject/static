@@ -4,16 +4,16 @@
       "id": 1,
       "label": "Static scenario visualisations",
       "description": "The package contains the static graphics of the emssion budgets and pathsways from the module in PDF and PNG formats. The graphics display 1.5 scenarios with full carbon removal availabilty worldwide.",
-      "link": "http://dev.climatescenarios.org/share/stocktake-1-co2.zip",
-      "previews": ["stocktake-1-budget-preview.png", "stocktake-1-scenarios-preview.png"],
+      "link": "http://dev.climatescenarios.org/share/emissions-gap-co2.zip",
+      "previews": ["emissions-gap-budget-preview.png", "emissions-gap-scenarios-preview.png"],
       "authors": ["Christoph Bertram", "Jonas Parnow"],
-      "reference": "Senses (2020), Global Stocktake"
+      "reference": "Senses (2020), Emissions Gap"
     }, {
       "id": 2,
       "label": "Additional graphs",
       "description": "The additional horizontal bar charts for temperature, stranded assets, land use, and investment for each pathways in PDF and PNG formats. The graphics display 1.5 scenarios with full carbon removal availabilty worldwide.",
       "link": "http://dev.climatescenarios.org/share/stocktake-2-graphs.zip",
-      "previews": ["stocktake-1-investment-preview.png", "stocktake-1-investment-preview.png", "stocktake-1-investment-preview.png"],
+      "previews": ["emissions-gap-investment-preview.png", "emissions-gap-investment-preview.png", "emissions-gap-investment-preview.png"],
       "authors": ["Christoph Bertram", "Jonas Parnow"],
       "reference": "Senses (2020), Global Stocktake"
     }, {
@@ -21,7 +21,7 @@
       "label": "Additional graphs",
       "description": "The package contains 4 high-resolution static graphics from the Towards an Electric Future module in PDF and PNG formats.",
       "link": "http://dev.climatescenarios.org/share/electrification.zip",
-      "previews": ["stocktake-1-investment-preview.png", "stocktake-1-investment-preview.png", "stocktake-1-investment-preview.png"],
+      "previews": ["emissions-gap-investment-preview.png", "emissions-gap-investment-preview.png", "emissions-gap-investment-preview.png"],
       "authors": ["Falko Ueckerdt", "Francesca Morini"],
       "reference": "Senses (2020), Towards an Electric Future"
     }, {
