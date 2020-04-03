@@ -107,7 +107,8 @@
       "readingTime": 10,
       "subtitle": "Work in Progress – Learn module",
       "tags": [ "Policy" ],
-      "type": [ "Learn" ]
+      "type": [ "Learn" ],
+      "visible": false
     },
     {
       "id": "senses-earth",
@@ -144,7 +145,8 @@
       "readingTime": 25,
       "subtitle": "Work in Progress – Learn module",
       "tags": [ "Finance" ],
-      "type": [ "Learn" ]
+      "type": [ "Learn" ],
+      "visible": false
     },
     {
       "id": "transition-risk",
@@ -186,7 +188,8 @@
       "portal-num": 1,
       "subtitle": "Learn module",
       "tags": [ "Finance" ],
-      "type": [ "Learn" ]
+      "type": [ "Learn" ],
+      "visible": false
     },
     {
       "id": "primary-energy",
@@ -204,7 +207,8 @@
       "readingTime": 15,
       "subtitle": "Learn module",
       "tags": [ "Policy", "Finance" ],
-      "type": [ "Learn" ]
+      "type": [ "Learn" ],
+      "visible": false
     },
     {
       "id": "finder",
@@ -223,7 +227,8 @@
       "readingTime": null,
       "subtitle": "Explore module",
       "tags": [ "Finance", "Policy" ],
-      "type": [ "Explore", "Database" ]
+      "type": [ "Explore", "Database" ],
+      "visible": false
     },
     {
       "id": "technique-finder",
@@ -240,7 +245,8 @@
       "portal-num": null,
       "subtitle": "Explore module",
       "tags": [ "Regional" ],
-      "type": [ "Explore", "Database" ]
+      "type": [ "Explore", "Database" ],
+      "visible": false
     },
     {
       "id": "risk-finder",
@@ -255,7 +261,7 @@
       "subtitle": "Explore module",
       "tags": [ "Regional" ],
       "type": [ "Explore", "Database" ],
-      "visible": true
+      "visible": false
     },
     {
       "id": "emissions-gap",
@@ -307,7 +313,7 @@
       "subtitle": "Learn module",
       "tags": [ "Regional" ],
       "type": [ "Learn" ],
-      "visible": true
+      "visible": false
     },
     {
       "id": "database",
@@ -363,7 +369,8 @@
       "readingTime": 10,
       "subtitle": "Work in Progress – Learn module",
       "tags": [ "Policy" ],
-      "type": [ "Learn" ]
+      "type": [ "Learn" ],
+      "visible": false
     }
   ]
 }
