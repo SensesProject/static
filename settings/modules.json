@@ -228,7 +228,7 @@
       "subtitle": "Explore module",
       "tags": [ "Finance", "Policy" ],
       "type": [ "Explore", "Database" ],
-      "visible": false
+      "visible": true
     },
     {
       "id": "technique-finder",
@@ -246,7 +246,7 @@
       "subtitle": "Explore module",
       "tags": [ "Regional" ],
       "type": [ "Explore", "Database" ],
-      "visible": false
+      "visible": true
     },
     {
       "id": "risk-finder",
