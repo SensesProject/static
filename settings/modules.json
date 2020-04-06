@@ -211,7 +211,7 @@
       "visible": false
     },
     {
-      "id": "finder",
+      "id": "scenarioFinder",
       "title": "Scenario Finder",
       "alignRight": false,
       "authors": [ "Volker Krey", "Jonas Parnow" ],
@@ -231,7 +231,7 @@
       "visible": true
     },
     {
-      "id": "technique-finder",
+      "id": "techniquesFinder",
       "title": "Co-production Techniques Finder",
       "alignRight": false,
       "authors": [ "Sara Talebian", "Henrik Carlsen", "Nienke Ansems", "Eric Kemp-Benedict", "Jonas Parnow" ],
