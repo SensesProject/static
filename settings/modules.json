@@ -8,7 +8,7 @@
       "description": "This interactive primer give an introduction to climate change scenarios are and how they are connected to socioeconomics, energy & land use, emissions, climate change and climate impacts.",
       "downloadIDs": [ 1, 2 ],
       "keywords": "projection pathway ssp socioeconomic emissions concentration climate change impact mitigation adaptation integrated iam integrated assessment model",
-      "link": "https://climatescenarios.org/primer/",
+      "link": "/primer",
       "main-topic": "primer",
       "path": "primer",
       "portal": [ "Policy", "Finance" ],
@@ -96,8 +96,6 @@
       "authors": [ "Florian Humpenöder", "Alex Popp", "Fidel Thomet" ],
       "bg": "land-transitions",
       "description": "Today, most of the global ice-free land is used by humans in some way or another. Land use change and sustainable land management play an important role in climate change adaptation and mitigation. But they also have an impact on food security, desertification, land degradation.",
-      "gems": "/gems/#/land-use",
-      "gemsAmount": 3,
       "keywords": "population income calorie crop demand fish livestock supply chain food rice meat cereals rangelands cropland forest urban sugar nitrogen",
       "link": "/land-use",
       "main-topic": "Transitions",
@@ -107,7 +105,8 @@
       "readingTime": 10,
       "subtitle": "Work in Progress – Learn module",
       "tags": [ "Policy" ],
-      "type": [ "Learn" ]
+      "type": [ "Learn" ],
+      "visible": false
     },
     {
       "id": "senses-earth",
@@ -144,7 +143,8 @@
       "readingTime": 25,
       "subtitle": "Work in Progress – Learn module",
       "tags": [ "Finance" ],
-      "type": [ "Learn" ]
+      "type": [ "Learn" ],
+      "visible": false
     },
     {
       "id": "transition-risk",
@@ -155,8 +155,6 @@
       "data": false,
       "description": "Discover finance risks related to transitions in a variety of sectors including: Fossil fuels, End User and Power",
       "downloadIDs": [ 4 ],
-      "gems": "/gems/#/transition-risk",
-      "gemsAmount": 3,
       "keywords": "",
       "link": "/fossil-fuels",
       "main-topic": "Risks",
@@ -176,8 +174,6 @@
       "data": false,
       "description": "Discover finance risks related to transitions in a variety of sectors including: Fossil fuels, End User and Power",
       "downloadIDs": [],
-      "gems": "",
-      "gemsAmount": 0,
       "keywords": "power sector electricity finance investments risks economy transition",
       "link": "/power-sector",
       "main-topic": "Risks",
@@ -186,7 +182,8 @@
       "portal-num": 1,
       "subtitle": "Learn module",
       "tags": [ "Finance" ],
-      "type": [ "Learn" ]
+      "type": [ "Learn" ],
+      "visible": false
     },
     {
       "id": "primary-energy",
@@ -204,10 +201,11 @@
       "readingTime": 15,
       "subtitle": "Learn module",
       "tags": [ "Policy", "Finance" ],
-      "type": [ "Learn" ]
+      "type": [ "Learn" ],
+      "visible": false
     },
     {
-      "id": "finder",
+      "id": "scenarioFinder",
       "title": "Scenario Finder",
       "alignRight": false,
       "authors": [ "Volker Krey", "Jonas Parnow" ],
@@ -223,10 +221,11 @@
       "readingTime": null,
       "subtitle": "Explore module",
       "tags": [ "Finance", "Policy" ],
-      "type": [ "Explore", "Database" ]
+      "type": [ "Explore", "Database" ],
+      "visible": true
     },
     {
-      "id": "technique-finder",
+      "id": "techniquesFinder",
       "title": "Co-production Techniques Finder",
       "alignRight": false,
       "authors": [ "Sara Talebian", "Henrik Carlsen", "Nienke Ansems", "Eric Kemp-Benedict", "Jonas Parnow" ],
@@ -241,7 +240,8 @@
       "portal-num": null,
       "subtitle": "Explore module",
       "tags": [ "Regional" ],
-      "type": [ "Explore", "Database" ]
+      "type": [ "Explore", "Database" ],
+      "visible": true
     },
     {
       "id": "risk-finder",
@@ -256,22 +256,20 @@
       "subtitle": "Explore module",
       "tags": [ "Regional" ],
       "type": [ "Explore", "Database" ],
-      "visible": true
+      "visible": false
     },
     {
-      "id": "stocktake-1",
-      "title": "Global Stocktake",
+      "id": "emissions-gap",
+      "title": "Emissions Gap",
       "alignRight": true,
       "authors": [ "Christoph Bertram", "Jonas Parnow" ],
       "bg": "stocktake",
-      "description": "This general explores how current decarbonization plans until 2030 relate to the long-term targets of the Paris Agreement.",
+      "description": "This module explores how current decarbonization plans until 2030 relate to the long-term targets of the Paris Agreement.",
       "downloadIDs": [ 1, 2 ],
-      "gems": "/gems/#/stocktake-1",
-      "gemsAmount": 5,
       "keywords": "decarbonization plan paris agreement target emission gap carbon budget temperature stranded assets land use investment cost-effective policies policy mitigation technology cdr carbon dioxide removal short term long bridge scenario",
-      "link": "/stocktake",
+      "link": "/emissions-gap",
       "main-topic": "Budget",
-      "path": "stocktake-1",
+      "path": "emissions-gap",
       "portal": "Policy",
       "portal-num": 1,
       "readingTime": 15,
@@ -308,7 +306,7 @@
       "subtitle": "Learn module",
       "tags": [ "Regional" ],
       "type": [ "Learn" ],
-      "visible": true
+      "visible": false
     },
     {
       "id": "database",
@@ -364,7 +362,8 @@
       "readingTime": 10,
       "subtitle": "Work in Progress – Learn module",
       "tags": [ "Policy" ],
-      "type": [ "Learn" ]
+      "type": [ "Learn" ],
+      "visible": false
     }
   ]
 }
