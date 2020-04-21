@@ -124,7 +124,7 @@
       "readingTime": null,
       "subtitle": "Explore module",
       "tags": [ "Finance", "Policy" ],
-      "type": [ "Explore" ]
+      "type": [ "Explore", "Guided Explore" ]
     },
     {
       "id": "investment-opportunities",
@@ -220,7 +220,7 @@
       "readingTime": null,
       "subtitle": "Explore module",
       "tags": [ "Finance", "Policy" ],
-      "type": [ "Explore", "Database" ],
+      "type": [ "Explore", "Search" ],
       "visible": true
     },
     {
@@ -239,8 +239,8 @@
       "portal-num": null,
       "subtitle": "Explore module",
       "tags": [ "Regional" ],
-      "type": [ "Explore", "Database" ],
-      "visible": true
+      "type": [ "Explore", "Search" ],
+      "visible": false
     },
     {
       "id": "risk-finder",
@@ -254,7 +254,7 @@
       "path": "risk-finder",
       "subtitle": "Explore module",
       "tags": [ "Regional" ],
-      "type": [ "Explore", "Database" ],
+      "type": [ "Explore", "Search" ],
       "visible": false
     },
     {
@@ -324,7 +324,7 @@
       "readingTime": null,
       "subtitle": "Database",
       "tags": [ "Finance", "Policy" ],
-      "type": [ "Database" ]
+      "type": [ "Explore", "Open Explore" ]
     },
     {
       "id": "film",
