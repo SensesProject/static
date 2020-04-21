@@ -274,7 +274,12 @@
       "readingTime": 15,
       "subtitle": "Learn module",
       "tags": [ "Policy" ],
-      "type": [ "Learn" ]
+      "type": [ "Learn" ],
+      "sources": [
+        ["Kriegler, Elmar; et al. (2018): Pathways limiting warming to 1.5°C. A tale of turning around in no time?", "https://royalsocietypublishing.org/doi/full/10.1098/rsta.2016.0457"],
+        ["Luderer, Gunnar; et al. (2018): Residual fossil CO2 emissions in 1.5–2 °C pathways", "https://www.nature.com/articles/s41558-018-0198-6"],
+        ["Rogelj, J., et al. (2015): Energy system transformations for limiting end-of-century warming to below 1.5 °C.", "https://www.nature.com/articles/nclimate2572"]
+      ]
     },
     {
       "id": "physical-risks",
