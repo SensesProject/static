@@ -162,7 +162,11 @@
       "portalNum": 1,
       "subtitle": "Learn module",
       "tags": [ "Finance" ],
-      "type": [ "Learn" ]
+      "type": [ "Learn" ],
+      "sources": [
+        ["Bauer, Nico; et al. (2016): Bauer, Nico, et al. Global fossil energy markets and climate change mitigation–an analysis with REMIND.", "https://link.springer.com/article/10.1007/s10584-013-0901-6"],
+        ["van Ruijven, Bas; et al. (2019): Amplification of future energy demand growth due to climate change.", "http://pure.iiasa.ac.at/id/eprint/15966/"]
+      ]
     },
     {
       "id": "power-sector",
