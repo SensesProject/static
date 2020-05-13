@@ -40,7 +40,7 @@ More information about keys are located in [`./settings/`](./settings/)
 Setting files are deployed here: `https://dev.climatescenarios.org/settings`
 
 ## How to previews 🖼
-Place preview images in [`./previews`](./previews)
+Place preview images in [`./previews`](./previews). These images should not be wider thatn 1000 pixels.
 
 ## Troubeshoot
 For this issues:
