@@ -11,6 +11,7 @@
 | **title** | String | Title of the module (~30 characters max) |
 | **description** | String | Description of the module (~130–180 characters) |
 | **authors** | Array | designers and scientists that authored the module |
+| **sources** | Array | Is an array of 2- or 1-element arrays containing first the label and second the link (if available). |
 | **TOOLKIT 👩‍🎤** | | |
 | **subtitle** | String | Learn module, explore module, database, … |
 | **tags** | Array | Additional tags for the module (could be »Policy«, »Finance«) |
