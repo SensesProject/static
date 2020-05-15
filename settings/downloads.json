@@ -32,6 +32,14 @@
       "previews": ["01-fossilfuels.png", "02-fossilfuels.png", "03-fossilfuels.png"],
       "authors": ["Nico Bauer", "Bas van Ruijven", "Nadia Zeissig", "Francesca Morini", "Fidel Thomet"],
       "reference": "Senses (2020), Fossil Fuels Risks"
+    }, {
+      "id": 5,
+      "label": "Static images",
+      "description": "The package contains high-resolution stills from the film »A Brief History of CO2 Emissions«.",
+      "link": "http://dev.climatescenarios.org/share/co2-movie.zip",
+      "previews": ["01-co2-movie.jpg", "02-co2-movie.jpg", "03-co2-movie.jpg", "04-co2-movie.jpg"],
+      "authors": [ "Julian Braun", "Jürgen Claus", "Susanne Droege", "Elmar Kriegler", "Boris Müller", "Mareike Schodder" ],
+      "reference": "Senses (2020), A Brief History of CO2 Emission"
     }
   ]
 }
