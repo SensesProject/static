@@ -79,4 +79,4 @@ const links = [...DEFAULT_PAGES, ...modules]
 const stream = new Sitemap.SitemapStream({ hostname: 'https://dev.climatescenarios.org/' })
 links.map(link => stream.write(link))
 stream.end()
-Sitemap.streamToPromise(stream).then(data => fs.writeFileSync('sitemap.xml', data.toString()))
+Sitemap.streamToPromise(stream).then(data => fs.writeFileSync(`${FOLDER_DIST}/sitemap.xml`, data.toString()))
