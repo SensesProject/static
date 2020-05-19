@@ -6,6 +6,7 @@
       "authors": [ "Elmar Kriegler", "Cornelia Auer", "Lavinia Baumstark", "Jan Volkholz", "Volker Krey", "Kasper Kok", "Henrik Carlsen", "Fidel Thomet" ],
       "bg": "primer",
       "description": "This interactive primer give an introduction to climate change scenarios are and how they are connected to socioeconomics, energy & land use, emissions, climate change and climate impacts.",
+      "downloadIDs": [ 6 ],
       "keywords": "projection pathway ssp socioeconomic emissions concentration climate change impact mitigation adaptation integrated iam integrated assessment model",
       "link": "/primer",
       "mainTopic": "primer",

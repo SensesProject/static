@@ -40,6 +40,15 @@
       "previews": ["01-co2-movie.jpg", "02-co2-movie.jpg", "03-co2-movie.jpg", "04-co2-movie.jpg"],
       "authors": [ "Julian Braun", "Jürgen Claus", "Susanne Droege", "Elmar Kriegler", "Boris Müller", "Mareike Schodder" ],
       "reference": "Senses (2020), A Brief History of CO2 Emission"
+    }, {
+      "id": 6,
+      "label": "Graphics",
+      "link": "http://dev.climatescenarios.org/share/primer.zip",
+      "licence": "Creative Commons Attribution-ShareAlike 4.0 International",
+      "reference": "Senses (2020), Climate Change Scenario Primer",
+      "authors": ["Elmar Kriegler", "Cornelia Auer", "Lavinia Baumstark", "Jan Volkholz", "Volker Krey", "Kasper Kok", "Henrik Carlsen", "Fidel Thomet" ],
+      "description": "The package contains 5 high-resolution static graphics from the Primer to Climate Scenarios in PDF and PNG formats.",
+      "previews": ["primer-01-projections_and_pathways.png", "primer-02-climate_loop.png", "primer-03-climate_loop_response.png", "primer-04-SSP_RCP_feasibility.png", "primer-05-Adaptation_Scenarios.png"]
     }
   ]
 }
