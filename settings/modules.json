@@ -258,8 +258,7 @@
       "portalNum": null,
       "subtitle": "Explore module",
       "tags": [ "Regional" ],
-      "type": [ "Explore", "Search" ],
-      "visible": false
+      "type": [ "Explore", "Search" ]
     },
     {
       "id": "risk-finder",
