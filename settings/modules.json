@@ -6,6 +6,7 @@
       "authors": [ "Elmar Kriegler", "Cornelia Auer", "Lavinia Baumstark", "Jan Volkholz", "Volker Krey", "Kasper Kok", "Henrik Carlsen", "Fidel Thomet" ],
       "bg": "primer",
       "description": "This interactive primer give an introduction to climate change scenarios are and how they are connected to socioeconomics, energy & land use, emissions, climate change and climate impacts.",
+      "downloadIDs": [ 6 ],
       "keywords": "projection pathway ssp socioeconomic emissions concentration climate change impact mitigation adaptation integrated iam integrated assessment model",
       "link": "/primer",
       "mainTopic": "primer",
@@ -50,14 +51,17 @@
       "portal": "Policy",
       "portalNum": 3,
       "readingTime": 25,
+      "sources": [
+        [
+          "Hoesly, R. M. et al. (2018): Historical (1750–2014) anthropogenic emissions of reactive gases and aerosols from the Community Emissions Data System (CEDS), Geosci. Model Dev., 11, 369–408",
+          "https://doi.org/10.5194/gmd-11-369-2018"
+        ],
+        [ "IEA. (2017). Extended world energy balances [(Database)]. IEA World Energy Statistics and Balances.", "http://dx.doi.org/10.1787/data-00513-en" ],
+        [ "Luderer, G. et al.(2020, May 8). REMIND - REgional Model of INvestments and Development. Zenodo. ", "https://zenodo.org/record/3817324" ]
+      ],
       "subtitle": "Learn module",
       "tags": [ "Policy" ],
-      "type": [ "Learn" ],
-      "sources": [
-        ["Hoesly, R. M. et al. (2018): Historical (1750–2014) anthropogenic emissions of reactive gases and aerosols from the Community Emissions Data System (CEDS), Geosci. Model Dev., 11, 369–408", "https://doi.org/10.5194/gmd-11-369-2018"],
-        ["IEA. (2017). Extended world energy balances [(Database)]. IEA World Energy Statistics and Balances.", "http://dx.doi.org/10.1787/data-00513-en"],
-        ["Luderer, G. et al.(2020, May 8). REMIND - REgional Model of INvestments and Development. Zenodo. ", "https://zenodo.org/record/3817324"]
-      ]
+      "type": [ "Learn" ]
     },
     {
       "id": "transition-path-2",
@@ -165,13 +169,19 @@
       "path": "transition-risk",
       "portal": "Finance",
       "portalNum": 1,
+      "sources": [
+        [
+          "McCollum, D. L. et al. (2018): Energy investment needs for fulfilling the Paris Agreement and achieving the Sustainable Development Goals. Nature Energy, 3(7), 589–599.",
+          "https://doi.org/10.1038/s41560-018-0179-z"
+        ],
+        [
+          "Rogelj, J.et al. (2018): Mitigation pathways compatible with 1.5°C in the context of sustainable development. In Special Report on the impacts of global warming of 1.5 °C. Intergovernmental Panel on Climate Change. ",
+          "http://www.ipcc.ch/report/sr15/"
+        ]
+      ],
       "subtitle": "Learn module",
       "tags": [ "Finance" ],
-      "type": [ "Learn" ],
-      "sources": [
-        ["McCollum, D. L. et al. (2018): Energy investment needs for fulfilling the Paris Agreement and achieving the Sustainable Development Goals. Nature Energy, 3(7), 589–599.", "https://doi.org/10.1038/s41560-018-0179-z"],
-        ["Rogelj, J.et al. (2018): Mitigation pathways compatible with 1.5°C in the context of sustainable development. In Special Report on the impacts of global warming of 1.5 °C. Intergovernmental Panel on Climate Change. ", "http://www.ipcc.ch/report/sr15/"]
-      ]
+      "type": [ "Learn" ]
     },
     {
       "id": "power-sector",
@@ -248,8 +258,7 @@
       "portalNum": null,
       "subtitle": "Explore module",
       "tags": [ "Regional" ],
-      "type": [ "Explore", "Search" ],
-      "visible": false
+      "type": [ "Explore", "Search" ]
     },
     {
       "id": "risk-finder",
@@ -281,15 +290,15 @@
       "portal": "Policy",
       "portalNum": 1,
       "readingTime": 15,
+      "sources": [
+        [ "Kriegler, Elmar; et al. (2018): Short term policies to keep the door open for Paris climate goals", "https://iopscience.iop.org/article/10.1088/1748-9326/aac4f1" ],
+        [ "Luderer, Gunnar; et al. (2018): Residual fossil CO2 emissions in 1.5–2 °C pathways", "https://www.nature.com/articles/s41558-018-0198-6" ],
+        [ "Rogelj, J., et al. (2015): Energy system transformations for limiting end-of-century warming to below 1.5 °C.", "https://www.nature.com/articles/nclimate2572" ],
+        [ "Bloomberg New Energy Finance (2020): “Clean Energy Investment Trends 2019”" ]
+      ],
       "subtitle": "Learn module",
       "tags": [ "Policy" ],
-      "type": [ "Learn" ],
-      "sources": [
-        ["Kriegler, Elmar; et al. (2018): Short term policies to keep the door open for Paris climate goals", "https://iopscience.iop.org/article/10.1088/1748-9326/aac4f1"],
-        ["Luderer, Gunnar; et al. (2018): Residual fossil CO2 emissions in 1.5–2 °C pathways", "https://www.nature.com/articles/s41558-018-0198-6"],
-        ["Rogelj, J., et al. (2015): Energy system transformations for limiting end-of-century warming to below 1.5 °C.", "https://www.nature.com/articles/nclimate2572"],
-        ["Bloomberg New Energy Finance (2020): “Clean Energy Investment Trends 2019”"]
-      ]
+      "type": [ "Learn" ]
     },
     {
       "id": "physical-risks",

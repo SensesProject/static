@@ -17,9 +17,9 @@ fs.mkdirSync(`${FOLDER_DIST}${FOLDER_SHARE}`)
 fs.mkdirSync(`${FOLDER_DIST}${FOLDER_SETTINGS}`)
 
 // Modules
-const modules = fs.readdirSync(FOLDER_MODULES).filter(m => fs.lstatSync(`${FOLDER_MODULES}/${m}`).isDirectory())
+const modulesFolders = fs.readdirSync(FOLDER_MODULES).filter(m => fs.lstatSync(`${FOLDER_MODULES}/${m}`).isDirectory())
 
-modules.forEach(m => {
+modulesFolders.forEach(m => {
   const fileOutput = fs.createWriteStream(`${FOLDER_DIST}${FOLDER_SHARE}/${m}.zip`)
   const archive = archiver('zip', { zlib: { level: 9 } })
   fileOutput.on('close', function () {
@@ -57,3 +57,26 @@ previews.forEach(f => {
     console.log(`${chalk.cyan.bold(from)} ${chalk.yellow.bold('→')} ${chalk.magenta.bold(to)} 🖼`)
   })
 })
+
+// Sitemap
+import Sitemap from 'sitemap';
+
+const DEFAULT_PAGES = [
+  { url: '/' },
+  { url: '/about' },
+  { url: '/imprint' },
+  { url: '/presskit' }
+]
+
+const modules = JSON.parse(fs.readFileSync(`.${FOLDER_SETTINGS}/modules.json`)).modules
+  .filter((module) => (module.visible == undefined || module.visible) && module.link.startsWith('/'))
+  .map((module) => {
+    return { url: module.link }
+  })
+
+const links = [...DEFAULT_PAGES, ...modules]
+
+const stream = new Sitemap.SitemapStream({ hostname: 'https://dev.climatescenarios.org/' })
+links.map(link => stream.write(link))
+stream.end()
+Sitemap.streamToPromise(stream).then(data => fs.writeFileSync(`${FOLDER_DIST}/sitemap.xml`, data.toString()))
