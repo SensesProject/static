@@ -5,7 +5,7 @@
       "label": "Static scenario visualisations",
       "description": "The package contains the static graphics of the emssion budgets and pathsways from the module in PDF and PNG formats. The graphics display 1.5 scenarios with full carbon removal availabilty worldwide.",
       "link": "http://dev.climatescenarios.org/share/emissions-gap-co2.zip",
-      "previews": ["emissions-gap-budget-preview.png", "emissions-gap-scenarios-preview.png"],
+      "previews": ["01-emissions-gap.png", "02-emissions-gap.png", "03-emissions-gap.png", "04-emissions-gap.png", "05-emissions-gap.png", "06-emissions-gap.png", "07-emissions-gap.png"],
       "authors": ["Christoph Bertram", "Jonas Parnow"],
       "reference": "Senses (2020), Emissions Gap"
     }, {
