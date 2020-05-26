@@ -258,8 +258,7 @@
       "portalNum": null,
       "subtitle": "Explore module",
       "tags": [ "Regional" ],
-      "type": [ "Explore", "Search" ],
-      "visible": false
+      "type": [ "Explore", "Search" ]
     },
     {
       "id": "risk-finder",
@@ -283,7 +282,7 @@
       "authors": [ "Christoph Bertram", "Jonas Parnow" ],
       "bg": "stocktake",
       "description": "This module explores how current decarbonization plans until 2030 relate to the long-term targets of the Paris Agreement.",
-      "downloadIDs": [ 1, 2 ],
+      "downloadIDs": [ 1 ],
       "keywords": "decarbonization plan paris agreement target emission gap carbon budget temperature stranded assets land use investment cost-effective policies policy mitigation technology cdr carbon dioxide removal short term long bridge scenario",
       "link": "/emissions-gap",
       "mainTopic": "Budget",
