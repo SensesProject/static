@@ -6,6 +6,7 @@
   "main": "dist.js",
   "scripts": {
     "build": "node --no-warnings scripts/dist.js",
+    "dev": "node --no-warnings scripts/dist.js --dev",
     "tidy": "node --no-warnings --experimental-json-modules scripts/tidy.js"
   },
   "repository": {
