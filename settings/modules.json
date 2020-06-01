@@ -3,7 +3,7 @@
     {
       "id": "primer",
       "title": "Primer to Climate Scenarios",
-      "authors": [ "Elmar Kriegler", "Cornelia Auer", "Lavinia Baumstark", "Jan Volkholz", "Volker Krey", "Kasper Kok", "Henrik Carlsen", "Fidel Thomet" ],
+      "authors": [ "Elmar Kriegler", "Cornelia Auer", "Lavinia Baumstark", "Jan Volkholz", "Volker Krey", "Kasper Kok", "Henrik Carlsen", "Lotte de Jong", "Simona Pedde", "Sara Talebian", "Fidel Thomet"],
       "bg": "primer",
       "description": "This interactive primer give an introduction to climate change scenarios are and how they are connected to socioeconomics, energy & land use, emissions, climate change and climate impacts.",
       "downloadIDs": [ 6 ],
@@ -120,7 +120,7 @@
       "id": "senses-earth",
       "title": "Senses Earth",
       "alignRight": false,
-      "authors": [ "Jan Volkholz", "Fidel Thomet" ],
+      "authors": [ "Jan Volkholz", "Stefan Lange", "Mahé Perrette", "Fidel Thomet" ],
       "bg": "senses-earth",
       "description": "Discover how the world will be affected by extreme events at different global warming levels.",
       "keywords": "",
