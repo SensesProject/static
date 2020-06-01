@@ -5,6 +5,9 @@ import chalk from 'chalk'
 import prettyBytes from 'pretty-bytes'
 import path from 'path'
 
+// Sitemap
+import Sitemap from 'sitemap'
+
 const FOLDER_DIST = './dist'
 const FOLDER_MODULES = './modules'
 const FOLDER_PREVIEWS = './previews'
@@ -58,9 +61,6 @@ previews.forEach(f => {
   })
 })
 
-// Sitemap
-import Sitemap from 'sitemap';
-
 const DEFAULT_PAGES = [
   { url: '/' },
   { url: '/about' },
@@ -69,7 +69,7 @@ const DEFAULT_PAGES = [
 ]
 
 const modules = JSON.parse(fs.readFileSync(`.${FOLDER_SETTINGS}/modules.json`)).modules
-  .filter((module) => (module.visible == undefined || module.visible) && module.link.startsWith('/'))
+  .filter((module) => (module.visible == null || module.visible) && module.link.startsWith('/'))
   .map((module) => {
     return { url: module.link }
   })
