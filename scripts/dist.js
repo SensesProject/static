@@ -4,6 +4,7 @@ import archiver from 'archiver'
 import chalk from 'chalk'
 import prettyBytes from 'pretty-bytes'
 import path from 'path'
+import Sitemap from 'sitemap'
 
 const FOLDER_DIST = './dist'
 const FOLDER_MODULES = './modules'
@@ -16,6 +17,8 @@ fs.mkdirSync(FOLDER_DIST)
 fs.mkdirSync(`${FOLDER_DIST}${FOLDER_SHARE}`)
 fs.mkdirSync(`${FOLDER_DIST}${FOLDER_SETTINGS}`)
 
+const args = process.argv.slice(2)
+const isDev = args[0] === '--dev'
 // Modules
 const modulesFolders = fs.readdirSync(FOLDER_MODULES).filter(m => fs.lstatSync(`${FOLDER_MODULES}/${m}`).isDirectory())
 
@@ -40,10 +43,16 @@ const settings = fs.readdirSync(`.${FOLDER_SETTINGS}`).filter(m => path.extname(
 settings.forEach(f => {
   const from = `.${FOLDER_SETTINGS}/${f}`
   const to = `${FOLDER_DIST}${FOLDER_SETTINGS}/${f}`
-  fs.copyFile(from, to, (err) => {
-    if (err) throw err
-    console.log(`${chalk.cyan.bold(from)} ${chalk.yellow.bold('→')} ${chalk.magenta.bold(to)} 📃`)
-  })
+  if (f === 'modules.json' && !isDev) {
+    const modules = JSON.parse(fs.readFileSync(from, 'utf-8'))
+    const filtered = modules.modules.filter((module) => (module.visible == null || module.visible) && module.link.startsWith('/'))
+    fs.writeFileSync(to, JSON.stringify({ modules: filtered }), 'utf-8')
+  } else {
+    fs.copyFile(from, to, (err) => {
+      if (err) throw err
+      console.log(`${chalk.cyan.bold(from)} ${chalk.yellow.bold('→')} ${chalk.magenta.bold(to)} 📃`)
+    })
+  }
 })
 
 // Previews
@@ -58,9 +67,6 @@ previews.forEach(f => {
   })
 })
 
-// Sitemap
-import Sitemap from 'sitemap';
-
 const DEFAULT_PAGES = [
   { url: '/' },
   { url: '/about' },
@@ -69,7 +75,7 @@ const DEFAULT_PAGES = [
 ]
 
 const modules = JSON.parse(fs.readFileSync(`.${FOLDER_SETTINGS}/modules.json`)).modules
-  .filter((module) => (module.visible == undefined || module.visible) && module.link.startsWith('/'))
+  .filter((module) => (module.visible == null || module.visible) && module.link.startsWith('/'))
   .map((module) => {
     return { url: module.link }
   })
