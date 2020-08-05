@@ -48,10 +48,9 @@ settings.forEach(f => {
     const filtered = modules.modules.filter((module) => (module.visible == null || module.visible) && module.link.startsWith('/'))
     fs.writeFileSync(to, JSON.stringify({ modules: filtered }), 'utf-8')
   } else {
-    fs.copyFile(from, to, (err) => {
-      if (err) throw err
-      console.log(`${chalk.cyan.bold(from)} ${chalk.yellow.bold('→')} ${chalk.magenta.bold(to)} 📃`)
-    })
+    const modules = JSON.parse(fs.readFileSync(from, 'utf-8'))
+    fs.writeFileSync(to, JSON.stringify({ modules }), 'utf-8')
+    console.log(`${chalk.cyan.bold(from)} ${chalk.yellow.bold('→')} ${chalk.magenta.bold(to)} 📃`)
   }
 })
 
