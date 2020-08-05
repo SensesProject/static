@@ -49,7 +49,7 @@ settings.forEach(f => {
     fs.writeFileSync(to, JSON.stringify({ modules: filtered }), 'utf-8')
   } else {
     const modules = JSON.parse(fs.readFileSync(from, 'utf-8'))
-    fs.writeFileSync(to, JSON.stringify({ modules }), 'utf-8')
+    fs.writeFileSync(to, JSON.stringify(modules), 'utf-8')
     console.log(`${chalk.cyan.bold(from)} ${chalk.yellow.bold('→')} ${chalk.magenta.bold(to)} 📃`)
   }
 })
