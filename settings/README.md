@@ -27,6 +27,7 @@
 | **portal** | Array | The portal assigned to the module. Can be `Finance`, `Policy` or `null` if the module is not part of portals |
 | **portal-num** | String | Position of the element in the portal based on the topic |
 | **main-topic** | String | Main topic of the module, useful for building the subway line menu in Portal |
+| **portalDescription** | String | Special description following the Finance and/or Policy portal storylines |
 | **path** | String | path of the module |
 | **readingTime** | String | Minutes (approx.) required to read the module |
 | **share** | String | The module has/has not additional material that can be downloaded from the "share" section |
