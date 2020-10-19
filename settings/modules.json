@@ -52,7 +52,7 @@
       "mainTopic": "Transitions",
       "path": "transition-path-1",
       "portal": "Policy",
-      "portalNum": 5,
+      "portalNum": 7,
       "readingTime": 25,
       "sources": [
         [
@@ -89,23 +89,6 @@
         ],
         [ "Schreyer, F., Luderer, G., Rodrigues, R., Pietzcker, R., Baumstark, L., Sugiyama, M., Brecha, RJ., Ueckerdt, F. (under review). Common but Differentiated Leadership: Strategies and Challenges for Carbon Neutrality by 2050 across Industrialized Economies. " ]
       ],
-      "subtitle": "Learn module",
-      "tags": [ "Policy" ],
-      "type": [ "Learn" ]
-    },
-    {
-      "id": "transition-path-2",
-      "title": "National and sectoral transition paths II",
-      "alignRight": false,
-      "authors": [ "Falko Ueckerdt", "Felix Schreyer", "Francesca Morini" ],
-      "description": "If we implement strong mitigation strategies where is our future energy coming from? This module will guide you through possible energy scenarios, giving you the possibility to explore one year of energy demand in the future.",
-      "portalDescription": "",
-      "keywords": "",
-      "mainTopic": "Transitions",
-      "path": "transition-path-2",
-      "portal": null,
-      "portalNum": null,
-      "readingTime": 25,
       "subtitle": "Learn module",
       "tags": [ "Policy" ],
       "type": [ "Learn" ],
@@ -182,7 +165,7 @@
       "mainTopic": "Opportunities",
       "path": "investment-opportunities",
       "portal": "Finance",
-      "portalNum": 9,
+      "portalNum": 10,
       "readingTime": 25,
       "subtitle": "Work in Progress – Learn module",
       "tags": [ "Finance" ],
@@ -228,7 +211,7 @@
       "authors": [ "Bas van Ruijven", "Jihoon Min", "Nadia Zeissig" ],
       "bg": "power-sector",
       "data": false,
-      "description": "Discover finance risks related to transitions in a variety of sectors including: Fossil fuels, End User and Power",
+      "description": "In this module we explore the risks and opportunities that result from the decarbonization of the power sector and we explain why investors should take climate policy into account in their decision-making. We will explore the changes in electricity production and revenue, the changing risk structure of the power sector, the risk of fuel costs and emission costs, and the need for clean investments.",
       "portalDescription": "",
       "downloadIDs": [],
       "keywords": "power sector electricity finance investments risks economy transition",
@@ -240,7 +223,7 @@
       "subtitle": "Learn module",
       "tags": [ "Finance" ],
       "type": [ "Learn" ],
-      "visible": false
+      "visible": true
     },
     {
       "id": "end-use",
@@ -261,7 +244,7 @@
       "subtitle": "Learn module",
       "tags": [ "Finance" ],
       "type": [ "Learn" ],
-      "visible": false
+      "visible": true
     },
     {
       "id": "primary-energy",
@@ -378,13 +361,13 @@
       "link": "/physical-risks",
       "mainTopic": "Risks",
       "path": "physical-risks",
-      "portal": "Finance",
+      "portal": "",
       "portalNum": 3,
       "readingTime": 15,
       "subtitle": "Learn module",
       "tags": [ "Finance" ],
       "type": [ "Learn" ],
-      "visible": false
+      "visible": true
     },
     {
       "id": "step-by-step",
