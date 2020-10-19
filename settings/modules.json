@@ -248,7 +248,7 @@
       "subtitle": "Learn module",
       "tags": [ "Finance" ],
       "type": [ "Learn" ],
-      "visible": true
+      "visible": false
     },
     {
       "id": "primary-energy",
@@ -371,7 +371,7 @@
       "subtitle": "Learn module",
       "tags": [ "Finance" ],
       "type": [ "Learn" ],
-      "visible": true
+      "visible": false
     },
     {
       "id": "step-by-step",
