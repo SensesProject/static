@@ -52,19 +52,11 @@
     }, {
       "id": 7,
       "label": "Graphics",
-      "link": "http://dev.climatescenarios.org/share/global-pathways.zip",
+      "link": "http://dev.climatescenarios.org/share/countries-pathways.zip",
       "licence": "Creative Commons Attribution-ShareAlike 4.0 International",
       "authors": [ "Felix Schreyer", "Francesca Morini" ],
-      "description": "The package contains ... high-resolution static graphics from the Net-zero Pathways for Industrialized Economies module in PDF and PNG formats.",
-      "previews": ["primer-01-projections_and_pathways.png", "primer-02-climate_loop.png", "primer-03-climate_loop_response.png", "primer-04-SSP_RCP_feasibility.png", "primer-05-Adaptation_Scenarios.png"]
-    }, {
-      "id": 8,
-      "label": "Graphics",
-      "description": "The package contains high-resolution static graphics from the Power Sector Risks module in PDF and PNG formats",
-      "link": "http://dev.climatescenarios.org/share/powersector.zip",
-      "previews": ["01-powersector.png", "02-powersector.png", "03-powersector.png", "04-powersector.png", "05-powersector.png", "06-powersector.png", "07-powersector.png", "08-powersector.png", "09-powersector.png", "10-powersector.png", "11-powersector.png", "12-powersector.png", "13-powersector.png", "14-powersector.png"],
-      "authors": ["Bas van Ruijven", "Jihoon Min", "Nadia Zeissig", "Francesca Morini", "Jonas Parnow"],
-      "reference": "Senses (2020), Power Sector Risks"
+      "description": "The package contains 8 high-resolution static graphics from the Net-zero Pathways for Industrialized Economies module in JPG and PNG formats.",
+      "previews": ["05-net-zero-preview.jpg", "01-net-zero-preview.jpg", "02-net-zero-preview.jpg", "03-net-zero-preview.jpg", "04-net-zero-preview.jpg"]
     }
   ]
 }
