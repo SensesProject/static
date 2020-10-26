@@ -57,6 +57,15 @@
       "authors": [ "Felix Schreyer", "Francesca Morini" ],
       "description": "The package contains 8 high-resolution static graphics from the Net-zero Pathways for Industrialized Economies module in JPG and PNG formats.",
       "previews": ["05-net-zero-preview.jpg", "01-net-zero-preview.jpg", "02-net-zero-preview.jpg", "03-net-zero-preview.jpg", "04-net-zero-preview.jpg"]
+    }, {
+      "id": 8,
+      "label": "Graphics",
+      "link": "http://dev.climatescenarios.org/share/power-sector.zip",
+      "licence": "Creative Commons Attribution-ShareAlike 4.0 International",
+      "reference": "Senses (2020), Power Sector Transformation",
+      "authors": [ "Bas van Ruijven", "Jihoon Min", "Nadia Zeissig", "Francesca Morini", "Jonas Parnow" ],
+      "description": "The package contains high-resolution static graphics from the Power Sector Transformation module in PDF and PNG formats",
+      "previews": ["01-powersector.png", "02-powersector.png", "03-powersector.png", "04-powersector.png", "05-powersector.png", "06-powersector.png", "07-powersector.png", "08-powersector.png", "09-powersector.png", "10-powersector.png", "11-powersector.png", "12-powersector.png", "13-powersector.png", "14-powersector.png"]
     }
   ]
 }
