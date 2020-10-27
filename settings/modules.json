@@ -83,7 +83,10 @@
       "portalNum": 9,
       "readingTime": 35,
       "sources": [
-        [ "Schreyer, F., Luderer, G., Rodrigues, R., Pietzcker, R., Baumstark, L., Sugiyama, M., Brecha, RJ., Ueckerdt, F. Common but Differentiated Leadership: Strategies and Challenges for Carbon Neutrality by 2050 across Industrialized Economies. Accepted for publication by Environmental Research Letters." ]
+        [
+          "Schreyer, F., Luderer, G., Rodrigues, R., Pietzcker, R. C., Baumstark, L., Sugiyama, M., Brecha, R. J., & Ueckerdt, F. (2020). Common but differentiated leadership: Strategies and challenges for carbon neutrality by 2050 across industrialized economies. Environmental Research Letters, 15(11), 114016.",
+          "https://doi.org/10.1088/1748-9326/abb852"
+        ]
       ],
       "subtitle": "Learn module",
       "tags": [ "Policy" ],
