@@ -45,7 +45,7 @@ settings.forEach(f => {
   const to = `${FOLDER_DIST}${FOLDER_SETTINGS}/${f}`
   if (f === 'modules.json' && !isDev) {
     const modules = JSON.parse(fs.readFileSync(from, 'utf-8'))
-    const filtered = modules.modules.filter((module) => (module.visible == null || module.visible) && module.link.startsWith('/'))
+    const filtered = modules.modules.filter((module) => module.visible == null || module.visible)
     fs.writeFileSync(to, JSON.stringify({ modules: filtered }), 'utf-8')
   } else {
     const modules = JSON.parse(fs.readFileSync(from, 'utf-8'))
