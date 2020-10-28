@@ -20,23 +20,91 @@
       "type": [ "Learn" ]
     },
     {
-      "id": "stocktake-2",
-      "title": "Global Stocktake II",
+      "id": "countries-pathways",
+      "title": "Net-zero Pathways for Industrialized Countries",
+      "isNew": true,
       "alignRight": true,
-      "authors": [ "Christoph Bertram", "Jonas Parnow" ],
-      "description": "The second Stocktake module starts where the first one ended. It guides the reader from the global Stocktake to the local.",
-      "portalDescription": "",
-      "downloadIDs": [ 1 ],
+      "authors": [ "Felix Schreyer", "Francesca Morini" ],
+      "bg": "countries-pathways",
+      "description": "Industrialized countries need to move towards net-zero CO2 emissions by 2050. But, how can they achieve this? Here, we show simulation results that outline possible mitigation pathways towards net-zero CO2 emissions by 2050 for the EU, Japan, Australia and the US.",
+      "portalDescription": "Industrialized countries increasingly take up the target to reach net zero emissions by mid century. This is motivated by the finding of the IPCC that limiting warming to 1.5°C with no or low overshoot suggests net global CO2 emissions to become zero by mid century. ",
+      "downloadIDs": [ 7 ],
       "keywords": "",
-      "mainTopic": "Budget",
-      "path": "stocktake-2",
-      "portal": null,
-      "portalNum": null,
-      "readingTime": 15,
+      "link": "/countries-pathways",
+      "mainTopic": "Transitions",
+      "path": "countries-pathways",
+      "portal": "Policy",
+      "portalNum": 9,
+      "readingTime": 35,
+      "sources": [
+        [
+          "Schreyer, F., Luderer, G., Rodrigues, R., Pietzcker, R. C., Baumstark, L., Sugiyama, M., Brecha, R. J., & Ueckerdt, F. (2020). Common but differentiated leadership: Strategies and challenges for carbon neutrality by 2050 across industrialized economies. Environmental Research Letters, 15(11), 114016.",
+          "https://doi.org/10.1088/1748-9326/abb852"
+        ]
+      ],
       "subtitle": "Learn module",
       "tags": [ "Policy" ],
       "type": [ "Learn" ],
-      "visible": false
+      "visible": true
+    },
+    {
+      "id": "transition-risk",
+      "title": "Fossil Fuels Risks",
+      "isNew": true,
+      "alignRight": false,
+      "authors": [ "Nico Bauer", "Bas van Ruijven", "Nadia Zeissig", "Francesca Morini", "Fidel Thomet" ],
+      "bg": "transition-risks",
+      "data": false,
+      "description": "Our society is currently relying heavily on fossil fuels to provide energy to our industries, keep our homes at comfortable temperatures and move goods and persons around the globe. In this module we show the risks associated with investing in the fossil fuel sector to explain why investors should consider climate policy in their decisions.",
+      "portalDescription": "",
+      "downloadIDs": [ 4 ],
+      "gems": "/gems/#/transition-risk",
+      "gemsAmount": 4,
+      "keywords": "transition fossil fuels coal gas oil finance",
+      "link": "/fossil-fuels",
+      "mainTopic": "Risks",
+      "path": "transition-risk",
+      "portal": "Finance",
+      "portalNum": 7,
+      "sources": [
+        [
+          "McCollum, D. L. et al. (2018): Energy investment needs for fulfilling the Paris Agreement and achieving the Sustainable Development Goals. Nature Energy, 3(7), 589–599.",
+          "https://doi.org/10.1038/s41560-018-0179-z"
+        ],
+        [
+          "Rogelj, J.et al. (2018): Mitigation pathways compatible with 1.5°C in the context of sustainable development. In Special Report on the impacts of global warming of 1.5 °C. Intergovernmental Panel on Climate Change. ",
+          "http://www.ipcc.ch/report/sr15/"
+        ]
+      ],
+      "subtitle": "Learn module",
+      "tags": [ "Finance" ],
+      "type": [ "Learn" ]
+    },
+    {
+      "id": "power-sector",
+      "title": "Power Sector Risks",
+      "isNew": true,
+      "alignRight": false,
+      "authors": [ "Bas van Ruijven", "Jihoon Min", "Nadia Zeissig", "Francesca Morini", "Jonas Parnow" ],
+      "bg": "power-sector",
+      "data": false,
+      "description": "In this module we explore the risks and opportunities that result from the decarbonization of the power sector and we explain why investors should take climate policy into account in their decision-making. We will explore the changes in electricity production and revenue, the changing risk structure of the power sector, the risk of fuel costs and emission costs, and the need for clean investments.",
+      "portalDescription": "",
+      "downloadIDs": [8],
+      "keywords": "power sector electricity finance investments risks economy transition",
+      "link": "/power-sector",
+      "mainTopic": "Risks",
+      "path": "power-sector",
+      "portal": "Finance",
+      "portalNum": 8,
+      "sources": [
+          ["UNEP, FI. (2018): Extending our horizons: Assessing credit risk and opportunity in a changing climate. Part I: Transition-Related Risks and Opportunities (2018).",
+          "https://www.unepfi.org/wordpress/wp-content/uploads/2018/04/EXTENDING-OUR-HORIZONS.pdf"]
+        ],
+      "subtitle": "Learn module",
+      "tags": [ "Finance" ],
+      "type": [ "Learn" ],
+      "visible": true
     },
     {
       "id": "transition-path-1",
@@ -65,33 +133,6 @@
       "subtitle": "Learn module",
       "tags": [ "Policy" ],
       "type": [ "Learn" ]
-    },
-    {
-      "id": "countries-pathways",
-      "title": "Net-zero Pathways for Industrialized Countries",
-      "alignRight": true,
-      "authors": [ "Felix Schreyer", "Francesca Morini" ],
-      "bg": "countries-pathways",
-      "description": "Industrialized countries need to move towards net-zero CO2 emissions by 2050. But, how can they achieve this? Here, we show simulation results that outline possible mitigation pathways towards net-zero CO2 emissions by 2050 for the EU, Japan, Australia and the US.",
-      "portalDescription": "Industrialized countries increasingly take up the target to reach net zero emissions by mid century. This is motivated by the finding of the IPCC that limiting warming to 1.5°C with no or low overshoot suggests net global CO2 emissions to become zero by mid century. ",
-      "downloadIDs": [ 7 ],
-      "keywords": "",
-      "link": "/countries-pathways",
-      "mainTopic": "Transitions",
-      "path": "countries-pathways",
-      "portal": "Policy",
-      "portalNum": 9,
-      "readingTime": 35,
-      "sources": [
-        [
-          "Schreyer, F., Luderer, G., Rodrigues, R., Pietzcker, R. C., Baumstark, L., Sugiyama, M., Brecha, R. J., & Ueckerdt, F. (2020). Common but differentiated leadership: Strategies and challenges for carbon neutrality by 2050 across industrialized economies. Environmental Research Letters, 15(11), 114016.",
-          "https://doi.org/10.1088/1748-9326/abb852"
-        ]
-      ],
-      "subtitle": "Learn module",
-      "tags": [ "Policy" ],
-      "type": [ "Learn" ],
-      "visible": true
     },
     {
       "id": "impact-demand",
@@ -170,63 +211,6 @@
       "tags": [ "Finance" ],
       "type": [ "Learn" ],
       "visible": false
-    },
-    {
-      "id": "transition-risk",
-      "title": "Fossil Fuels Risks",
-      "alignRight": false,
-      "authors": [ "Nico Bauer", "Bas van Ruijven", "Nadia Zeissig", "Francesca Morini", "Fidel Thomet" ],
-      "bg": "transition-risks",
-      "data": false,
-      "description": "Our society is currently relying heavily on fossil fuels to provide energy to our industries, keep our homes at comfortable temperatures and move goods and persons around the globe. In this module we show the risks associated with investing in the fossil fuel sector to explain why investors should consider climate policy in their decisions.",
-      "portalDescription": "",
-      "downloadIDs": [ 4 ],
-      "gems": "/gems/#/transition-risk",
-      "gemsAmount": 4,
-      "keywords": "transition fossil fuels coal gas oil finance",
-      "link": "/fossil-fuels",
-      "mainTopic": "Risks",
-      "path": "transition-risk",
-      "portal": "Finance",
-      "portalNum": 7,
-      "sources": [
-        [
-          "McCollum, D. L. et al. (2018): Energy investment needs for fulfilling the Paris Agreement and achieving the Sustainable Development Goals. Nature Energy, 3(7), 589–599.",
-          "https://doi.org/10.1038/s41560-018-0179-z"
-        ],
-        [
-          "Rogelj, J.et al. (2018): Mitigation pathways compatible with 1.5°C in the context of sustainable development. In Special Report on the impacts of global warming of 1.5 °C. Intergovernmental Panel on Climate Change. ",
-          "http://www.ipcc.ch/report/sr15/"
-        ]
-      ],
-      "subtitle": "Learn module",
-      "tags": [ "Finance" ],
-      "type": [ "Learn" ]
-    },
-    {
-      "id": "power-sector",
-      "title": "Power Sector Risks",
-      "alignRight": false,
-      "authors": [ "Bas van Ruijven", "Jihoon Min", "Nadia Zeissig", "Francesca Morini", "Jonas Parnow" ],
-      "bg": "power-sector",
-      "data": false,
-      "description": "In this module we explore the risks and opportunities that result from the decarbonization of the power sector and we explain why investors should take climate policy into account in their decision-making. We will explore the changes in electricity production and revenue, the changing risk structure of the power sector, the risk of fuel costs and emission costs, and the need for clean investments.",
-      "portalDescription": "",
-      "downloadIDs": [8],
-      "keywords": "power sector electricity finance investments risks economy transition",
-      "link": "/power-sector",
-      "mainTopic": "Risks",
-      "path": "power-sector",
-      "portal": "Finance",
-      "portalNum": 8,
-      "sources": [
-          ["UNEP, FI. (2018): Extending our horizons: Assessing credit risk and opportunity in a changing climate. Part I: Transition-Related Risks and Opportunities (2018).",
-          "https://www.unepfi.org/wordpress/wp-content/uploads/2018/04/EXTENDING-OUR-HORIZONS.pdf"]
-        ],
-      "subtitle": "Learn module",
-      "tags": [ "Finance" ],
-      "type": [ "Learn" ],
-      "visible": true
     },
     {
       "id": "end-use",
