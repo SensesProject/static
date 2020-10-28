@@ -68,11 +68,11 @@
     },
     {
       "id": "countries-pathways",
-      "title": "Net-zero Pathways for Industrialized Economies",
+      "title": "Net-zero Pathways for Industrialized Countries",
       "alignRight": true,
       "authors": [ "Felix Schreyer", "Francesca Morini" ],
       "bg": "countries-pathways",
-      "description": "Industrialized Economies need to move towards net-zero CO2 emissions by 2050. But, how can they achieve this? Here, we show simulation results that outline possible mitigation pathways towards net-zero CO2 emissions by 2050 for the EU, Japan, Australia and the US.",
+      "description": "Industrialized countries need to move towards net-zero CO2 emissions by 2050. But, how can they achieve this? Here, we show simulation results that outline possible mitigation pathways towards net-zero CO2 emissions by 2050 for the EU, Japan, Australia and the US.",
       "portalDescription": "Industrialized countries increasingly take up the target to reach net zero emissions by mid century. This is motivated by the finding of the IPCC that limiting warming to 1.5°C with no or low overshoot suggests net global CO2 emissions to become zero by mid century. ",
       "downloadIDs": [ 7 ],
       "keywords": "",
@@ -91,7 +91,7 @@
       "subtitle": "Learn module",
       "tags": [ "Policy" ],
       "type": [ "Learn" ],
-      "visible": false
+      "visible": true
     },
     {
       "id": "impact-demand",
