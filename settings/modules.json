@@ -429,6 +429,11 @@
       "subtitle": "Work in Progress – Learn module",
       "tags": [ "Policy" ],
       "type": [ "Learn" ],
+      "sources": [
+        ["Klein Goldewijk, K., Beusen, A., Doelman, J., & Stehfest, E. (2017). Anthropogenic land use estimates for the Holocene – HYDE 3.2. Earth System Science Data, 9 (2), 927–953. doi: 10.5194/essd-9-927-2017", "https://dspace.library.uu.nl/handle/1874/357990"],
+        ["Lange, S., J. Volkholz, T. Geiger, F. Zhao, I. Vega, T. Veldkamp, C.P.O. Reyer, et al., (2020). Projecting exposure to extreme climate impact events across six event categories and three spatial scales"],
+        ["Scussolini, P., Aerts, J. C. J. H., Jongman, B., Bouwer, L. M., Winsemius, H. C., deMoel,H., & Ward, P. J. (2016). FLOPROS: an evolving global database of flood protectionstandards.Natural Hazards and Earth System Sciences,16(5), 1049–1061. doi:10.5194/nhess-16-1049-2016", "https://www.researchgate.net/profile/Jeroen_Aerts4/publication/329736774_FLOPROS_an_evolving_global_database_of_flood_protection_standards/links/5c18abb14585157ac1ca4b2a/FLOPROS-an-evolving-global-database-of-flood-protection-standards.pdf"]
+      ],
       "visible": false
     }
   ]
