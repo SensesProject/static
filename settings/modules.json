@@ -457,11 +457,16 @@
       "keywords": "",
       "link": "/kenya",
       "path": "kenya",
-      "sources": [ [ "SSP database", "https://tntcat.iiasa.ac.at/SspDb" ], [ "ISIMIP", "https://data.isimip.org/" ], [ "File 1" ], [ "File 2" ], [ "File 3" ] ],
+      "sources": [
+        [ "SSP database", "https://tntcat.iiasa.ac.at/SspDb" ],
+        [ "ISIMIP", "https://data.isimip.org/" ],
+        [ "Sara Talebian, Henrik Carlsen (2020): Case study results, future socioeconomic drivers, and states", "https://github.com/SensesProject/regional-kenya/tree/master/data" ],
+        [ "Sara Talebian, Henrik Carlsen (2020): Case study results, future cross-border climate impacts", "https://github.com/SensesProject/regional-kenya/tree/master/data" ],
+        [ "Sara Talebian, Henrik Carlsen (2020): Case study results, adaptation options", "https://github.com/SensesProject/regional-kenya/tree/master/data" ]
+      ],
       "subtitle": "Learn module",
       "tags": [ "Regional" ],
-      "type": [ "Learn" ],
-      "visible": false
+      "type": [ "Learn" ]
     },
     {
       "id": "dutch",
@@ -477,8 +482,7 @@
       "sources": [ [ "Fuzzy Cognitive Maps for the Overijsselse Vecht" ], [ "Vision scoring" ], [ "Impacts", "https://data.isimip.org/" ], [ "Impacts" ] ],
       "subtitle": "Learn module",
       "tags": [ "Regional" ],
-      "type": [ "Learn" ],
-      "visible": false
+      "type": [ "Learn" ]
     },
     {
       "id": "co-production",
@@ -494,8 +498,7 @@
       "sources": [],
       "subtitle": "Learn module",
       "tags": [ "Regional" ],
-      "type": [ "Learn" ],
-      "visible": false
+      "type": [ "Learn" ]
     }
   ]
 }
