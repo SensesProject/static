@@ -435,6 +435,68 @@
         ["Scussolini, P., Aerts, J. C. J. H., Jongman, B., Bouwer, L. M., Winsemius, H. C., deMoel,H., & Ward, P. J. (2016). FLOPROS: an evolving global database of flood protectionstandards.Natural Hazards and Earth System Sciences,16(5), 1049–1061. doi:10.5194/nhess-16-1049-2016", "https://www.researchgate.net/profile/Jeroen_Aerts4/publication/329736774_FLOPROS_an_evolving_global_database_of_flood_protection_standards/links/5c18abb14585157ac1ca4b2a/FLOPROS-an-evolving-global-database-of-flood-protection-standards.pdf"]
       ],
       "visible": false
+    },
+    {
+      "id": "kenya",
+      "title": "Co-producing adaptation options to address future cross-border climate impacts",
+      "alignRight": true,
+      "authors": [ "Sara Talebian", "Henrik Carlsen", "Oliver Johnson", "Jan Volkholz", "Elvine Kwamboka", "Jonas Parnow" ],
+      "bg": "",
+      "description": "In this module, we show how co-production techniques can be applied to developing socioeconomic scenarios and adaptation options and strategies in sub-global impact, adaptation, and vulnerability studies.",
+      "downloadIDs": [],
+      "keywords": "",
+      "link": "/kenya",
+      "path": "kenya",
+      "sources": [
+        [ "SSP database", "https://tntcat.iiasa.ac.at/SspDb" ],
+        [ "ISIMIP", "https://data.isimip.org/" ],
+        [ "File 1" ],
+        [ "File 2" ],
+        [ "File 3" ]
+      ],
+      "subtitle": "Learn module",
+      "tags": [ "Regional" ],
+      "type": [ "Learn" ],
+      "visible": false
+    },
+    {
+      "id": "dutch",
+      "title": "Co-producing robust adaptation pathways to address adaptation and mitigation to climate change",
+      "alignRight": true,
+      "authors": [ "Lotte de Jong", "Simona Pedde", "Kasper Kok", "Jonas Parnow" ],
+      "bg": "",
+      "description": "In this module, we illustrate how co-production techniques can be applied in combination with socioeconomic and impact scenarios to develop adaptation pathways for a climate robust and CO2-neutral landscape. We demonstrate this process with the case study of the Dutch Overijsselse Vecht.",
+      "downloadIDs": [],
+      "keywords": "",
+      "link": "/dutch",
+      "path": "dutch",
+      "sources": [
+        [ "Fuzzy Cognitive Maps for the Overijsselse Vecht" ],
+        [ "Vision scoring" ],
+        [ "Impacts", "https://data.isimip.org/" ],
+        [ "Impacts" ]
+      ],
+      "subtitle": "Learn module",
+      "tags": [ "Regional" ],
+      "type": [ "Learn" ],
+      "visible": false
+    },
+    {
+      "id": "co-production",
+      "title": "Learn Module of co-production techniques",
+      "alignRight": true,
+      "authors": [ "Simona Pedde", "Sara Talebian", "Lotte de Jong", "Kasper Kok", "Henrik Carlsen", "Jonas Parnow" ],
+      "bg": "",
+      "description": "In this module, we illustrate how co-production techniques can be applied in combination with socioeconomic and impact scenarios to develop adaptation pathways for a climate robust and CO2-neutral landscape. We demonstrate this process with the case study of the Dutch Overijsselse Vecht.",
+      "downloadIDs": [],
+      "keywords": "",
+      "link": "/co-production",
+      "path": "co-production",
+      "sources": [],
+      "subtitle": "Learn module",
+      "tags": [ "Regional" ],
+      "type": [ "Learn" ],
+      "visible": false
     }
   ]
 }
