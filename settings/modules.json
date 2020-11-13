@@ -266,6 +266,16 @@
       "portalDescription": "",
       "portalNum": 10,
       "readingTime": 25,
+      "sources": [
+        [
+          "Andrijevic, Marina, Carl-Friedrich Schleussner, Matthew J. Gidden, David L. McCollum, and Joeri Rogelj. “COVID-19 Recovery Funds Dwarf Clean Energy Investment Needs.” Science 370, no. 6514 (October 16, 2020): 298–300.",
+          "https://doi.org/10.1126/science.abc9697"
+        ],
+        [
+          "Luderer, Gunnar, Zoi Vrontisi, Christoph Bertram, Oreane Y. Edelenbosch, Robert C. Pietzcker, Joeri Rogelj, Harmen Sytze De Boer, et al. “Residual Fossil CO 2 Emissions in 1.5–2 °C Pathways.” Nature Climate Change 8, no. 7 (July 2018): 626–33.",
+          "https://doi.org/10.1038/s41558-018-0198-6"
+        ]
+      ],
       "subtitle": "Work in Progress – Learn module",
       "tags": [ "Finance" ],
       "type": [ "Learn" ],
