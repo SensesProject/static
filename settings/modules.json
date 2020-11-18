@@ -122,7 +122,9 @@
       "subtitle": "Learn module",
       "tags": [ "Policy" ],
       "type": [ "Learn" ],
-      "visible": true
+      "visible": true,
+      "gems": "/gems/#/transition-risk",
+      "gemsAmount": 6
     },
     {
       "id": "transition-risk",
@@ -134,7 +136,7 @@
       "description": "Our society is currently relying heavily on fossil fuels to provide energy to our industries, keep our homes at comfortable temperatures and move goods and persons around the globe. In this module we show the risks associated with investing in the fossil fuel sector to explain why investors should consider climate policy in their decisions.",
       "downloadIDs": [ 4 ],
       "gems": "/gems/#/transition-risk",
-      "gemsAmount": 4,
+      "gemsAmount": 6,
       "keywords": "transition fossil fuels coal gas oil finance",
       "link": "/fossil-fuels",
       "mainTopic": "Risks",
@@ -154,7 +156,7 @@
       ],
       "subtitle": "Learn module",
       "tags": [ "Finance" ],
-      "type": [ "Learn" ]
+      "type": [ "Learn" ],
     },
     {
       "id": "power-sector",
@@ -172,6 +174,8 @@
       "portal": "Finance",
       "portalDescription": "",
       "portalNum": 8,
+      "gems": "/gems/#/transition-risk",
+      "gemsAmount": 6,
       "sources": [
         [
           "UNEP, FI. (2018): Extending our horizons: Assessing credit risk and opportunity in a changing climate. Part I: Transition-Related Risks and Opportunities (2018).",
@@ -209,7 +213,9 @@
       ],
       "subtitle": "Learn module",
       "tags": [ "Policy" ],
-      "type": [ "Learn" ]
+      "type": [ "Learn" ],
+      "gems": "/gems/#/transition-risk",
+      "gemsAmount": 3
     },
     {
       "id": "impact-demand",
@@ -293,6 +299,8 @@
       "mainTopic": "Risks",
       "path": "end-use",
       "portal": "Finance",
+      "gems": "/gems/#/transition-risk",
+      "gemsAmount": 6,
       "portalDescription": "",
       "portalNum": 9,
       "subtitle": "Learn module",
