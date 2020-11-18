@@ -27,7 +27,6 @@
       "bg": "co-production",
       "description": "In this module, we illustrate how to use co-production techniques to start or develop adaptation planning given different stages of the policy cycle.",
       "downloadIDs": [],
-      "isNew": true,
       "keywords": "",
       "link": "/co-production",
       "path": "co-production",
@@ -44,7 +43,6 @@
       "bg": "dutch",
       "description": "In this module, we illustrate how co-production techniques can be applied in combination with socioeconomic and impact scenarios to develop adaptation pathways for a climate robust and CO₂-neutral landscape. We demonstrate this process with the case study of the Dutch Overijsselse Vecht.",
       "downloadIDs": [],
-      "isNew": true,
       "keywords": "",
       "link": "/dutch",
       "path": "dutch",
@@ -61,7 +59,6 @@
       "bg": "kenya",
       "description": "In this module, we show how co-production techniques can be applied to developing socio-economic scenarios and adaptation options and strategies in sub-global impact, adaptation, and vulnerability studies. We demonstrate this process in a case study focused on Kenya.",
       "downloadIDs": [],
-      "isNew": true,
       "keywords": "",
       "link": "/kenya",
       "path": "kenya",
@@ -227,9 +224,10 @@
       "subtitle": "Learn module",
       "tags": [ "Policy" ],
       "type": [ "Learn" ],
-      "visible": false,
+      "visible": true,
       "gems": "/gems/#/land-use",
-      "gemsAmount": 3
+      "gemsAmount": 3,
+      "isNew": true
     },
     {
       "id": "senses-earth",
