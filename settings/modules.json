@@ -23,13 +23,16 @@
       "id": "land-transitions",
       "title": "The Role of Land for Food Production and Climate Protection",
       "alignRight": false,
-      "authors": [ "Florian Humpenöder", "Fidel Thomet", "Cornelia Auer", "Elmar Kriegler", "Alexander Popp"],
+      "authors": [ "Florian Humpenöder", "Fidel Thomet", "Cornelia Auer", "Elmar Kriegler", "Alexander Popp" ],
       "bg": "land-transitions",
       "description": "Current land-use practices accelerate climate change. Mitigation strategies like afforestation and BECCS increase the demand for land, which puts food security and biodiversity at risk. Is it possible to reach the Paris Agreement goals without major trade-offs?",
+      "downloadIDs": [ 9 ],
+      "gems": "/gems/#/land-use",
+      "gemsAmount": 3,
+      "isNew": true,
       "keywords": "land land-use transition sustainable sustability SDG food trade-off degradation desertification biodiversity",
       "link": "/land-use",
       "mainTopic": "Transitions",
-      "downloadIDs": [ 9 ],
       "path": "land-use",
       "portal": "Policy",
       "portalDescription": "",
@@ -38,10 +41,7 @@
       "subtitle": "Learn module",
       "tags": [ "Policy" ],
       "type": [ "Learn" ],
-      "visible": true,
-      "gems": "/gems/#/land-use",
-      "gemsAmount": 3,
-      "isNew": true
+      "visible": true
     },
     {
       "id": "co-production",
@@ -70,7 +70,11 @@
       "keywords": "",
       "link": "/dutch",
       "path": "dutch",
-      "sources": [ [ "Lotte de Jong (2020): Fuzzy Cognitive Maps for the Overijsselse Vecht", "https://github.com/SensesProject/regional-dutch/tree/master/data" ], [ "Simona Pedde & Lotte de Jong (2020): Vision scoring", "https://github.com/SensesProject/regional-dutch/tree/master/data" ], [ "Impacts", "https://data.isimip.org/" ] ],
+      "sources": [
+        [ "Lotte de Jong (2020): Fuzzy Cognitive Maps for the Overijsselse Vecht", "https://github.com/SensesProject/regional-dutch/tree/master/data" ],
+        [ "Simona Pedde & Lotte de Jong (2020): Vision scoring", "https://github.com/SensesProject/regional-dutch/tree/master/data" ],
+        [ "Impacts", "https://data.isimip.org/" ]
+      ],
       "subtitle": "Learn module",
       "tags": [ "Regional" ],
       "type": [ "Learn" ]
@@ -105,6 +109,8 @@
       "bg": "countries-pathways",
       "description": "Industrialized countries need to move towards net-zero CO2 emissions by 2050. But, how can they achieve this? Here, we show simulation results that outline possible mitigation pathways towards net-zero CO2 emissions by 2050 for the EU, Japan, Australia and the US.",
       "downloadIDs": [ 7 ],
+      "gems": "/gems/#/transition-risk",
+      "gemsAmount": 6,
       "keywords": "",
       "link": "/countries-pathways",
       "mainTopic": "Transitions",
@@ -122,9 +128,7 @@
       "subtitle": "Learn module",
       "tags": [ "Policy" ],
       "type": [ "Learn" ],
-      "visible": true,
-      "gems": "/gems/#/transition-risk",
-      "gemsAmount": 6
+      "visible": true
     },
     {
       "id": "transition-risk",
@@ -167,6 +171,8 @@
       "data": false,
       "description": "In this module we explore the risks and opportunities that result from the decarbonization of the power sector and we explain why investors should take climate policy into account in their decision-making. We will explore the changes in electricity production and revenue, the changing risk structure of the power sector, the risk of fuel costs and emission costs, and the need for clean investments.",
       "downloadIDs": [ 8 ],
+      "gems": "/gems/#/transition-risk",
+      "gemsAmount": 6,
       "keywords": "power sector electricity finance investments risks economy transition",
       "link": "/power-sector",
       "mainTopic": "Risks",
@@ -174,8 +180,6 @@
       "portal": "Finance",
       "portalDescription": "",
       "portalNum": 8,
-      "gems": "/gems/#/transition-risk",
-      "gemsAmount": 6,
       "sources": [
         [
           "UNEP, FI. (2018): Extending our horizons: Assessing credit risk and opportunity in a changing climate. Part I: Transition-Related Risks and Opportunities (2018).",
@@ -195,6 +199,8 @@
       "bg": "transition-path-1",
       "description": "We cannot predict the future, but we can create different plausible scenarios of how a future decarbonization pathway could look like. In this module you will be introduced to the concept of Electrification and to the broad strategy to go Carbon Neutral by reducing emissions.",
       "downloadIDs": [ 7 ],
+      "gems": "/gems/#/transition-risk",
+      "gemsAmount": 3,
       "keywords": "",
       "link": "/sector-transition",
       "mainTopic": "Transitions",
@@ -213,9 +219,7 @@
       ],
       "subtitle": "Learn module",
       "tags": [ "Policy" ],
-      "type": [ "Learn" ],
-      "gems": "/gems/#/transition-risk",
-      "gemsAmount": 3
+      "type": [ "Learn" ]
     },
     {
       "id": "impact-demand",
@@ -294,13 +298,13 @@
       "data": false,
       "description": "Discover finance risks related to transitions in a variety of sectors including: Fossil fuels, End User and Power",
       "downloadIDs": [],
+      "gems": "/gems/#/transition-risk",
+      "gemsAmount": 6,
       "keywords": "power sector electricity finance investments risks economy transition",
       "link": "/end-use",
       "mainTopic": "Risks",
       "path": "end-use",
       "portal": "Finance",
-      "gems": "/gems/#/transition-risk",
-      "gemsAmount": 6,
       "portalDescription": "",
       "portalNum": 9,
       "subtitle": "Learn module",
