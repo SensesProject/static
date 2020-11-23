@@ -280,8 +280,16 @@
           "https://doi.org/10.1088/1748-9326/aac3ec"
         ],
         [
+          "BP (2020), Statistical Review of World Energy",
+          "https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html"
+        ],
+        [
           "Grubler, A. et al. (June 2018): “A Low Energy Demand Scenario for Meeting the 1.5 °C Target and Sustainable Development Goals without Negative Emission Technologies.” Nature Energy 3, no. 6: 515–27.",
           "https://doi.org/10.1038/s41560-018-0172-6"
+        ],
+        [
+          "IEA (2020), World Energy Investment 2020, IEA, Paris",
+          "https://www.iea.org/reports/world-energy-investment-2020"
         ],
         [
           "Luderer, G. et al. (2018): “Residual fossil CO2 emissions in 1.5–2 °C pathways.” Nature Clim Change 8, 626–633",
@@ -292,7 +300,7 @@
           "https://doi.org/10.1038/s41560-018-0179-z"
         ]
       ],
-      "subtitle": "Work in Progress – Learn module",
+      "subtitle": "Learn module",
       "tags": [ "Finance" ],
       "type": [ "Learn" ],
       "visible": false
