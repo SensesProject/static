@@ -20,6 +20,57 @@
       "type": [ "Learn" ]
     },
     {
+      "id": "investment-opportunities",
+      "title": "Investment Opportunities and Alignment",
+      "alignRight": false,
+      "authors": [ "Christoph Bertram", "Jonas Parnow", "Bas van Ruijven" ],
+      "bg": "investment",
+      "description": "What are near-time investment requirements for meeting stringent climate targets in a low carbon world?",
+      "keywords": "",
+      "link": "/investment",
+      "mainTopic": "Opportunities",
+      "path": "investment",
+      "portal": "Finance",
+      "portalDescription": "",
+      "portalNum": 10,
+      "readingTime": 25,
+      "sources": [
+        [
+          "Andrijevic, M., et al. (2020): “COVID-19 recovery funds dwarf clean energy investment needs.” Science 16 Oct 2020: Vol. 370, Issue 6514, pp. 298-300.",
+          "https://doi.org/10.1126/science.abc9697"
+        ],
+        [
+          "Bertram, C. et al. (2018): “Targeted Policies Can Compensate Most of the Increased Sustainability Risks in 1.5 °C Mitigation Scenarios.” Environmental Research Letters 13, no. 6: 064038.",
+          "https://doi.org/10.1088/1748-9326/aac3ec"
+        ],
+        [
+          "BP (2020), Statistical Review of World Energy",
+          "https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html"
+        ],
+        [
+          "Grubler, A. et al. (June 2018): “A Low Energy Demand Scenario for Meeting the 1.5 °C Target and Sustainable Development Goals without Negative Emission Technologies.” Nature Energy 3, no. 6: 515–27.",
+          "https://doi.org/10.1038/s41560-018-0172-6"
+        ],
+        [
+          "IEA (2020), World Energy Investment 2020, IEA, Paris",
+          "https://www.iea.org/reports/world-energy-investment-2020"
+        ],
+        [
+          "Luderer, G. et al. (2018): “Residual fossil CO2 emissions in 1.5–2 °C pathways.” Nature Clim Change 8, 626–633",
+          "https://doi.org/10.1038/s41558-018-0198-6"
+        ],
+        [
+          "McCollum, D. L. et al. (2018): “Energy investment needs for fulfilling the Paris Agreement and achieving the Sustainable Development Goals.” Nature Energy, 3(7), 589–599.",
+          "https://doi.org/10.1038/s41560-018-0179-z"
+        ]
+      ],
+      "subtitle": "Learn module",
+      "tags": [ "Finance" ],
+      "type": [ "Learn" ],
+      "visible": true,
+      "isNew": true
+    },
+    {
       "id": "land-transitions",
       "title": "The Role of Land for Food Production and Climate Protection",
       "alignRight": false,
@@ -40,8 +91,7 @@
       "type": [ "Learn" ],
       "visible": true,
       "gems": "/gems/#/land-use",
-      "gemsAmount": 3,
-      "isNew": true
+      "gemsAmount": 3
     },
     {
       "id": "co-production",
@@ -254,56 +304,6 @@
       "subtitle": "Explore module",
       "tags": [ "Finance", "Policy" ],
       "type": [ "Explore", "Guided Explore" ]
-    },
-    {
-      "id": "investment-opportunities",
-      "title": "Investment Opportunities and Alignment",
-      "alignRight": false,
-      "authors": [ "Christoph Bertram", "Bas van Ruijven", "Jonas Parnow" ],
-      "bg": "investment",
-      "description": "What are near-time investment requirements for meeting stringent climate targets in a low carbon world?",
-      "keywords": "",
-      "link": "/investment",
-      "mainTopic": "Opportunities",
-      "path": "investment",
-      "portal": "Finance",
-      "portalDescription": "",
-      "portalNum": 10,
-      "readingTime": 25,
-      "sources": [
-        [
-          "Andrijevic, M., et al. (2020): “COVID-19 recovery funds dwarf clean energy investment needs.” Science 16 Oct 2020: Vol. 370, Issue 6514, pp. 298-300.",
-          "https://doi.org/10.1126/science.abc9697"
-        ],
-        [
-          "Bertram, C. et al. (2018): “Targeted Policies Can Compensate Most of the Increased Sustainability Risks in 1.5 °C Mitigation Scenarios.” Environmental Research Letters 13, no. 6: 064038.",
-          "https://doi.org/10.1088/1748-9326/aac3ec"
-        ],
-        [
-          "BP (2020), Statistical Review of World Energy",
-          "https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html"
-        ],
-        [
-          "Grubler, A. et al. (June 2018): “A Low Energy Demand Scenario for Meeting the 1.5 °C Target and Sustainable Development Goals without Negative Emission Technologies.” Nature Energy 3, no. 6: 515–27.",
-          "https://doi.org/10.1038/s41560-018-0172-6"
-        ],
-        [
-          "IEA (2020), World Energy Investment 2020, IEA, Paris",
-          "https://www.iea.org/reports/world-energy-investment-2020"
-        ],
-        [
-          "Luderer, G. et al. (2018): “Residual fossil CO2 emissions in 1.5–2 °C pathways.” Nature Clim Change 8, 626–633",
-          "https://doi.org/10.1038/s41558-018-0198-6"
-        ],
-        [
-          "McCollum, D. L. et al. (2018): “Energy investment needs for fulfilling the Paris Agreement and achieving the Sustainable Development Goals.” Nature Energy, 3(7), 589–599.",
-          "https://doi.org/10.1038/s41560-018-0179-z"
-        ]
-      ],
-      "subtitle": "Learn module",
-      "tags": [ "Finance" ],
-      "type": [ "Learn" ],
-      "visible": false
     },
     {
       "id": "end-use",
