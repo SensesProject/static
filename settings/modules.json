@@ -78,7 +78,7 @@
       "bg": "land-transitions",
       "description": "Current land-use practices accelerate climate change. Mitigation strategies like afforestation and BECCS increase the demand for land, which puts food security and biodiversity at risk. Is it possible to reach the Paris Agreement goals without major trade-offs?",
       "downloadIDs": [ 9 ],
-      "gems": "/gems/#/land-use",
+      "gems": "/gems/#/land-transition",
       "gemsAmount": 3,
       "isNew": true,
       "keywords": "land land-use transition sustainable sustability SDG food trade-off degradation desertification biodiversity",
