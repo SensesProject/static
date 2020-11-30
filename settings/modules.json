@@ -233,7 +233,7 @@
       "title": "End Use Risks",
       "alignRight": false,
       "authors": [ "Bas van Ruijven", "Jihoon Min", "Nadia Zeissig" ],
-      "bg": "end-use",
+      "bg": "enduse_sector",
       "data": false,
       "description": "Discover finance risks related to transitions in a variety of sectors including: Fossil fuels, End User and Power",
       "portalDescription": "",
