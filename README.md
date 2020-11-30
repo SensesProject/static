@@ -22,18 +22,6 @@ standard convention:
 [number]-[title]-[data].csv
 ```
 
-### Distribution 📦
-There is a script to zip all the subfolders of `/modules` and place them into `/dist` as `[module-name].zip`.
-
-__Setup__
-```
-npm install
-```
-
-__Zip__
-```
-npm run build
-```
 
 ## How to settings 🎚️
 More information about keys are located in [`./settings/`](./settings/)
@@ -41,6 +29,24 @@ Setting files are deployed here: `https://dev.climatescenarios.org/settings`
 
 ## How to previews 🖼
 Place preview images in [`./previews`](./previews). These images should not be wider thatn 1000 pixels.
+
+## Distribution 📦
+There is a script to make everything ready for the server (zipping files, checking jsons, …)
+
+__Setup__
+```
+npm install
+```
+
+__Build for climatescenarios.org__
+```
+npm run build
+```
+
+__Build for dev.climatescenarios.org__
+```
+npm run dev
+```
 
 ## Troubeshoot
 For this issues:
