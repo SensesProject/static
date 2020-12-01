@@ -83,7 +83,7 @@
       "reference": "Senses (2020), Enduse Sector Transformation",
       "authors": [ "Bas van Ruijven", "Jihoon Min", "Nadia Zeissig", "Francesca Morini", "Jonas Parnow" ],
       "description": "The package contains high-resolution static graphics from the Enduse Sector Risks module in PDF and PNG formats",
-      "previews": ["01-endusesector.png", "02-endusesector.png", "03-endusesector.png", "04-endusesector.png", "05-endusesector.png", "06-endusesector.png", "07-endusesector.png"]
+      "previews": ["01-enduse.png", "02-enduse.png", "03-enduse.png", "04-enduse.png", "05-enduse.png", "06-enduse.png", "07-enduse.png"]
     }
   ]
 }
