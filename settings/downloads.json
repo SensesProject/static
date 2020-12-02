@@ -84,6 +84,15 @@
       "authors": [ "Bas van Ruijven", "Jihoon Min", "Nadia Zeissig", "Francesca Morini", "Jonas Parnow" ],
       "description": "The package contains high-resolution static graphics from the Enduse Sector Risks module in PDF and PNG formats",
       "previews": ["01-enduse.png", "02-enduse.png", "03-enduse.png", "04-enduse.png", "05-enduse.png", "06-enduse.png", "07-enduse.png"]
+    }, {
+      "id": 11,
+      "label": "Graphics",
+      "link": "http://dev.climatescenarios.org/share/extreme-events.zip",
+      "licence": "Creative Commons Attribution-ShareAlike 4.0 International",
+      "reference": "Senses (2020), Extreme Events",
+      "authors": [ "Jan Volkholz", "Fidel Thomet" ],
+      "description": "The package contains high-resolution static graphics from the Extreme Events module in PDF and PNG formats",
+      "previews": ["extreme-events-01-heatwave.png", "extreme-events-02-drought.png", "extreme-events-03-crop-failure.png", "extreme-events-04-wildfire.png", "extreme-events-05-river-floods.png", "extreme-events-06-tropical-cyclone.png"]
     }
   ]
 }
