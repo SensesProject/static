@@ -331,7 +331,8 @@
       "readingTime": null,
       "subtitle": "Explore module",
       "tags": [ "Finance", "Policy" ],
-      "type": [ "Explore", "Guided Explore" ]
+      "type": [ "Explore", "Guided Explore" ],
+      "downloadIDs": [ 11 ]
     },
     {
       "id": "primary-energy",
