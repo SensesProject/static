@@ -307,24 +307,6 @@
       "type": [ "Learn" ]
     },
     {
-      "id": "impact-demand",
-      "title": "What Is the Potential Impact of the Demand Side?",
-      "alignRight": false,
-      "authors": [ "Arnulf Grübler", "Volker Krey", "Charlie Wilson", "Francesca Morini" ],
-      "description": "Placeholder Text TODO",
-      "keywords": "",
-      "mainTopic": "Demand",
-      "path": "impact-demand",
-      "portal": "Policy",
-      "portalDescription": "",
-      "portalNum": null,
-      "readingTime": null,
-      "subtitle": "Learn module",
-      "tags": [ "Policy" ],
-      "type": [ "Learn" ],
-      "visible": false
-    },
-    {
       "id": "senses-earth",
       "title": "Senses Earth",
       "alignRight": false,
