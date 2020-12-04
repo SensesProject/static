@@ -178,9 +178,9 @@
       "link": "/dutch",
       "path": "dutch",
       "sources": [
+        [ "ISIMIP impacts database", "https://data.isimip.org/" ]
         [ "Lotte de Jong (2020): Fuzzy Cognitive Maps for the Overijsselse Vecht", "https://github.com/SensesProject/regional-dutch/tree/master/data" ],
         [ "Simona Pedde & Lotte de Jong (2020): Vision scoring", "https://github.com/SensesProject/regional-dutch/tree/master/data" ],
-        [ "Impacts", "https://data.isimip.org/" ]
       ],
       "subtitle": "Learn module",
       "tags": [ "Regional" ],
@@ -199,11 +199,11 @@
       "link": "/kenya",
       "path": "kenya",
       "sources": [
-        [ "SSP database", "https://tntcat.iiasa.ac.at/SspDb" ],
-        [ "ISIMIP", "https://data.isimip.org/" ],
-        [ "Sara Talebian, Henrik Carlsen (2020): Case study results, future socioeconomic drivers, and states", "https://github.com/SensesProject/regional-kenya/tree/master/data" ],
-        [ "Sara Talebian, Henrik Carlsen (2020): Case study results, future cross-border climate impacts", "https://github.com/SensesProject/regional-kenya/tree/master/data" ],
+        [ "ISIMIP impacts database", "https://data.isimip.org/" ],
         [ "Sara Talebian, Henrik Carlsen (2020): Case study results, adaptation options", "https://github.com/SensesProject/regional-kenya/tree/master/data" ]
+        [ "Sara Talebian, Henrik Carlsen (2020): Case study results, future cross-border climate impacts", "https://github.com/SensesProject/regional-kenya/tree/master/data" ],
+        [ "Sara Talebian, Henrik Carlsen (2020): Case study results, future socioeconomic drivers, and states", "https://github.com/SensesProject/regional-kenya/tree/master/data" ],
+        [ "SSP database hosted by IIASA", "https://tntcat.iiasa.ac.at/SspDb" ],
       ],
       "subtitle": "Learn module",
       "tags": [ "Regional" ],
