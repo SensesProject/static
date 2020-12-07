@@ -21,6 +21,43 @@
       "type": [ "Learn" ]
     },
     {
+      "id": "extreme-events",
+      "title": "Extreme Events",
+      "alignRight": false,
+      "authors": [ "Jan Volkholz", "Fidel Thomet" ],
+      "bg": "extreme-events",
+      "description": "Climate change makes extreme events more frequent and more severe. This module investigates how exposure to crop failures, river floods, tropical cyclones, heatwaves, wildfires, and droughts changes with rising temperature levels.",
+      "keywords": "",
+      "lastUpdate": "2020-12-01",
+      "link": "/extreme-events",
+      "mainTopic": "Extreme Events",
+      "path": "extreme-events",
+      "portal": [ "Policy", "Finance" ],
+      "portalDescription": "",
+      "portalNum": 1,
+      "readingTime": 15,
+      "sources": [
+        [
+          "Lange, S., J. Volkholz, T. Geiger, F. Zhao, I. Vega, T. Veldkamp, C.P.O. Reyer, et al., (2020). Projecting exposure to extreme climate impact events across six event categories and three spatial scales",
+          "https://doi.org/10.1029/2020EF001616"
+        ],
+        [
+          "Klein Goldewijk, K., Beusen, A., Doelman, J., & Stehfest, E. (2017). Anthropogenic land use estimates for the Holocene – HYDE 3.2. Earth System Science Data, 9 (2), 927–953. doi: 10.5194/essd-9-927-2017",
+          "https://dspace.library.uu.nl/handle/1874/357990"
+        ],
+        [
+          "Scussolini, P., Aerts, J. C. J. H., Jongman, B., Bouwer, L. M., Winsemius, H. C., deMoel,H., & Ward, P. J. (2016). FLOPROS: an evolving global database of flood protectionstandards.Natural Hazards and Earth System Sciences,16(5), 1049–1061. doi:10.5194/nhess-16-1049-2016",
+          "https://www.researchgate.net/profile/Jeroen_Aerts4/publication/329736774_FLOPROS_an_evolving_global_database_of_flood_protection_standards/links/5c18abb14585157ac1ca4b2a/FLOPROS-an-evolving-global-database-of-flood-protection-standards.pdf"
+        ]
+      ],
+      "subtitle": "Work in Progress – Learn module",
+      "tags": [ "Policy" ],
+      "type": [ "Learn" ],
+      "visible": false,
+      "downloadIDs": [ 11 ],
+      "isNew": true
+    },
+    {
       "id": "preamble",
       "title": "Transition Risks – Preamble",
       "alignRight": false,
@@ -38,8 +75,7 @@
       "subtitle": "Learn module",
       "tags": [ "Finance" ],
       "type": [ "Learn" ],
-      "visible": true,
-      "isNew": true
+      "visible": true
     },
     {
       "id": "end-use",
@@ -69,8 +105,7 @@
       "subtitle": "Learn module",
       "tags": [ "Finance" ],
       "type": [ "Learn" ],
-      "visible": true,
-      "isNew": true
+      "visible": true
     },
     {
       "id": "investment-opportunities",
@@ -121,8 +156,7 @@
       "subtitle": "Learn module",
       "tags": [ "Finance" ],
       "type": [ "Learn" ],
-      "visible": true,
-      "isNew": true
+      "visible": true
     },
     {
       "id": "land-transitions",
@@ -426,26 +460,6 @@
       "type": [ "Learn" ]
     },
     {
-      "id": "physical-risks",
-      "title": "Physical Risks",
-      "alignRight": false,
-      "authors": [ "Katja Frieler", "Jan Volkholz", "Fidel Thomet" ],
-      "description": "What are the financial risks of climate change impacts? This module demontrates market impacts of extreme events across multiple degrees of global warming.",
-      "keywords": "",
-      "lastUpdate": "2020-12-01",
-      "link": "/physical-risks",
-      "mainTopic": "Risks",
-      "path": "physical-risks",
-      "portal": "",
-      "portalDescription": "",
-      "portalNum": 3,
-      "readingTime": 15,
-      "subtitle": "Learn module",
-      "tags": [ "Finance" ],
-      "type": [ "Learn" ],
-      "visible": false
-    },
-    {
       "id": "database",
       "title": "Scenario Explorer",
       "alignRight": false,
@@ -472,7 +486,6 @@
       "alignRight": false,
       "authors": [ "Julian Braun", "Jürgen Claus", "Susanne Droege", "Elmar Kriegler", "Boris Müller", "Mareike Schodder" ],
       "bg": "co2-movie",
-      "lastUpdate": "2017-09-05",
       "description": "Greenhouse gas emissions are one of the driving forces behind climate change. In our short film “A Brief History of CO2 Emissions”, we visualize the geographic distribution and the historic dimension of carbon dioxide emissions.",
       "downloadIDs": [ 5 ],
       "keywords": "",
@@ -488,40 +501,6 @@
       "subtitle": "Learn film",
       "tags": [ "Finance", "Policy" ],
       "type": [ "Learn", "Media" ]
-    },
-    {
-      "id": "extreme-events",
-      "title": "Extreme Events",
-      "alignRight": false,
-      "authors": [ "Jan Volkholz", "Fidel Thomet" ],
-      "bg": "extreme-events",
-      "description": "Climate change makes extreme events more frequent and more intense. Learn how both people and land will be affected by crop failures, river floods, tropical cyclones, heatwaves, wildfires, and droughts in the future.",
-      "keywords": "",
-      "lastUpdate": "2020-12-01",
-      "link": "/extreme-events",
-      "mainTopic": "Extreme Events",
-      "path": "extreme-events",
-      "portal": [ "Policy", "Finance" ],
-      "portalDescription": "",
-      "portalNum": 1,
-      "readingTime": 10,
-      "sources": [
-        [
-          "Klein Goldewijk, K., Beusen, A., Doelman, J., & Stehfest, E. (2017). Anthropogenic land use estimates for the Holocene – HYDE 3.2. Earth System Science Data, 9 (2), 927–953. doi: 10.5194/essd-9-927-2017",
-          "https://dspace.library.uu.nl/handle/1874/357990"
-        ],
-        [
-          "Lange, S., J. Volkholz, T. Geiger, F. Zhao, I. Vega, T. Veldkamp, C.P.O. Reyer, et al., (2020). Projecting exposure to extreme climate impact events across six event categories and three spatial scales"
-        ],
-        [
-          "Scussolini, P., Aerts, J. C. J. H., Jongman, B., Bouwer, L. M., Winsemius, H. C., deMoel,H., & Ward, P. J. (2016). FLOPROS: an evolving global database of flood protectionstandards.Natural Hazards and Earth System Sciences,16(5), 1049–1061. doi:10.5194/nhess-16-1049-2016",
-          "https://www.researchgate.net/profile/Jeroen_Aerts4/publication/329736774_FLOPROS_an_evolving_global_database_of_flood_protection_standards/links/5c18abb14585157ac1ca4b2a/FLOPROS-an-evolving-global-database-of-flood-protection-standards.pdf"
-        ]
-      ],
-      "subtitle": "Work in Progress – Learn module",
-      "tags": [ "Policy" ],
-      "type": [ "Learn" ],
-      "visible": false
     }
   ]
 }
