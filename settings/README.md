@@ -23,6 +23,8 @@
 | **downloadIDs** | Array | List of IDs pointing to `downloads.json` |
 | **keywords** | String | Additional keywords used for search |
 | **bg** | String | Background image for Toolkit |
+| **isNew** | Boolean | The tile will have a little »Recently added« tooltip |
+| **lastUpdate** | String | This is displayed in SensesMeta for each module. The format is `2020-12-01` |
 | **PORTALS 📎** | | |
 | **portal** | Array | The portal assigned to the module. Can be `Finance`, `Policy` or `null` if the module is not part of portals |
 | **portal-num** | String | Position of the element in the portal based on the topic |
