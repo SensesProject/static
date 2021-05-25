@@ -395,6 +395,19 @@
       "type": [ "Learn" ]
     },
     {
+      "id": "manuals",
+      "title": "Manuals for Co-Production",
+      "description": "Manuals for co-production of knowledge with climate change scenarios for users with global but also regional perspective.",
+      "lastUpdate": "2021-05-25",
+      "authors": ["Mariia Bilogub", "Cornelia Auer", "Sara Talebian", "Henrik Carlsen", "Lotte de Jong", "Simona Pedde", "Kasper Kok"],
+      "linkText": "Read the guidelines",
+      "path": "co-production-manuals",
+      "link": "/co-production-manuals",
+      "subtitle": "Guidelines",
+      "tags": [ "Finance", "Policy", "Regional" ],
+      "type": [ "Learn" ]
+    },
+    {
       "id": "film",
       "title": "A Brief History of CO₂ Emissions",
       "alignRight": false,
@@ -461,7 +474,7 @@
     },
     {
       "id": "techniquesFinder",
-      "title": "Co-production Techniques Finder",
+      "title": "Co-Production Techniques Finder",
       "alignRight": false,
       "authors": [ "Sara Talebian", "Henrik Carlsen", "Nienke Ansems", "Eric Kemp-Benedict", "Jonas Parnow" ],
       "bg": "technique-finder",
